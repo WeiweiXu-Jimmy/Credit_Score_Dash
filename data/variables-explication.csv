@@ -1,0 +1,42 @@
+Variables,Explication des variables
+Credit,"1: Bons credits ou Intermédiaire(retards de paiement) ,           
+0: Mauvais credits"
+Partenaire,"0: 'Enseigne AUTRES',
+ 1: 'Enseigne Bijouterie',
+ 2: 'Enseigne Electroménager',
+ 3: 'Enseigne Optique 1',
+ 4: 'Enseigne Optique 2',
+ 5: 'Enseigne Optique 3',
+ 6: 'Enseigne audition',
+ 7: 'Enseigne mode, beauté, maison',
+ 8: 'Enseigne réparation auto'"
+Durée_du_crédit,Unité: ans
+Type_de_produit,"0: 'Amortissable',    1: 'Renouvelable'"
+Montant_du_crédit,Unité: euros
+Montant_du_renouvelable,Unité: euros
+Situation_familliale,"0: ‘Célibataire',
+1: 'Divorcé', 
+2: ‘K-pacsé-en concubinage’, 
+3: 'Marié',             
+4: ‘Pacsé2-union libre',                    
+5: 'Séparé',           
+6: 'Veuf'"
+Nombre_enfant,Unité: Nombre
+Contrat_de_travail,0: ‘AUT'    1: ‘CDD'    2: ‘CDI'    3: ‘INT'    4: 'NON'
+Profession,"0: 'Agriculteurs exploitants',
+ 1: ""Artisans, commerçants et chefs d'entreprise"",
+ 2: 'Cadres et professions intellectuelles supérieures',
+ 3: 'Employés',
+ 4: 'Invalidités',
+ 5: 'Ouvriers',
+ 6: 'Professions intermédiaires',
+ 7: 'Retraités',
+ 8: 'Sans activité professionnelle'"
+Situation_logement,"0: 'Accession à la propriété',
+ 1: 'Locataire',
+ 2: 'Logement de fonction',
+ 3: 'Logé par famille',
+ 4: 'Propriétaire'"
+Sex,"0: 'Femme',          1: 'Homme'"
+Age,Unité: ans
+Revenu,Salaire +Retrait +Pension

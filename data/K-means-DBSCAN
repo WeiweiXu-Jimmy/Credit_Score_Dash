@@ -1,0 +1,734 @@
+,Unnamed: 0,Partenaire,Durée_du_crédit,Type_de_produit,Montant_du_crédit,Montant_du_renouvelable,Situation_familliale,Nombre_enfant,Contrat_de_travail,Profession,Situation_logement,Sex,Age,Revenu,km_labels,db_labels
+79,79,Enseigne Optique 1,10.0,AMO,2000.0,2000.0,C,0.0,CDI,Employés,Locataire,F,34.0,1800.0,2_catégorie,1_catégorie
+91,91,Enseigne Optique 1,10.0,AMO,2000.0,2000.0,C,0.0,,Retraités,Locataire,F,65.0,1700.0,2_catégorie,1_catégorie
+97,97,Enseigne Optique 1,10.0,AMO,2000.0,2000.0,C,1.0,CDI,Employés,Locataire,F,31.0,1650.0,2_catégorie,1_catégorie
+110,110,Enseigne Optique 1,10.0,AMO,1478.0,1478.0,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Accession à la propriété,M,20.0,2000.0,2_catégorie,1_catégorie
+112,112,Enseigne Optique 1,10.0,AMO,1213.9,1213.9,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,45.0,2000.0,2_catégorie,1_catégorie
+116,116,Enseigne Optique 1,10.0,AMO,1600.0,1600.0,C,0.0,CDI,Employés,Logé par famille,F,24.0,1680.0,2_catégorie,1_catégorie
+201,201,Enseigne Electroménager,12.0,AMO,1011.88,1011.88,C,0.0,CDI,Ouvriers,Logé par famille,M,19.0,1350.0,1_catégorie,1_catégorie
+290,290,Enseigne Bijouterie,10.0,AMO,1350.0,1350.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,31.0,2100.0,2_catégorie,1_catégorie
+345,345,Enseigne Bijouterie,10.0,AMO,1499.0,1499.0,C,0.0,CDI,Employés,Locataire,M,22.0,1600.0,2_catégorie,1_catégorie
+346,346,Enseigne Bijouterie,10.0,AMO,1090.2,1090.2,C,0.0,CDI,Professions intermédiaires,Locataire,F,22.0,1900.0,2_catégorie,1_catégorie
+347,347,Enseigne Bijouterie,10.0,AMO,897.0,897.0,C,0.0,CDI,Employés,Locataire,F,31.0,1900.0,1_catégorie,1_catégorie
+348,348,Enseigne Bijouterie,10.0,AMO,1337.0,1337.0,C,0.0,CDI,Employés,Logé par famille,F,23.0,1700.0,2_catégorie,1_catégorie
+353,353,Enseigne Bijouterie,10.0,AMO,1300.0,1300.0,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,32.0,1800.0,2_catégorie,1_catégorie
+359,359,Enseigne Bijouterie,10.0,AMO,1304.0,1304.0,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,45.0,2800.0,2_catégorie,1_catégorie
+360,360,Enseigne Bijouterie,10.0,AMO,1291.4,1291.4,C,0.0,CDI,Professions intermédiaires,Locataire,M,33.0,1900.0,2_catégorie,1_catégorie
+361,361,Enseigne Bijouterie,10.0,AMO,1359.0,1359.0,C,0.0,CDI,Employés,Locataire,M,26.0,1900.0,2_catégorie,1_catégorie
+363,363,Enseigne Bijouterie,10.0,AMO,489.0,489.0,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Logé par famille,M,24.0,2500.0,1_catégorie,1_catégorie
+365,365,Enseigne Bijouterie,10.0,AMO,1249.0,1249.0,C,0.0,CDI,Employés,Locataire,M,25.0,1850.0,2_catégorie,1_catégorie
+400,400,Enseigne Bijouterie,10.0,AMO,694.0,694.0,C,0.0,CDI,Employés,Locataire,M,29.0,1480.0,1_catégorie,1_catégorie
+403,403,Enseigne Bijouterie,10.0,AMO,1690.0,1690.0,C,0.0,CDI,Employés,Locataire,M,29.0,1700.0,2_catégorie,1_catégorie
+425,425,Enseigne Bijouterie,10.0,AMO,1308.0,1308.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,20.0,1500.0,2_catégorie,1_catégorie
+426,426,Enseigne Bijouterie,10.0,AMO,828.0,828.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,64.0,2900.0,2_catégorie,1_catégorie
+443,443,Enseigne Bijouterie,10.0,AMO,1874.0,1874.0,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Logé par famille,M,22.0,1400.0,2_catégorie,1_catégorie
+449,449,Enseigne Bijouterie,10.0,AMO,1590.0,1590.0,C,0.0,CDI,Employés,Propriétaire,M,53.0,3000.0,2_catégorie,1_catégorie
+462,462,Enseigne Bijouterie,10.0,AMO,1437.0,1437.0,C,0.0,CDI,Employés,Locataire,M,32.0,2180.0,2_catégorie,1_catégorie
+532,532,Enseigne réparation auto,4.0,REN,273.6,2000.0,C,0.0,CDI,Employés,Logé par famille,F,22.0,950.0,3_catégorie,1_catégorie
+619,619,Enseigne réparation auto,3.0,REN,126.78,2000.0,M,1.0,CDI,Employés,Locataire,F,30.0,1500.0,3_catégorie,1_catégorie
+659,659,Enseigne réparation auto,10.0,AMO,460.4,460.4,C,3.0,CDI,Employés,Locataire,F,44.0,1480.0,1_catégorie,1_catégorie
+698,698,Enseigne réparation auto,4.0,REN,124.78,3000.0,M,1.0,CDI,Ouvriers,Locataire,M,33.0,1800.0,3_catégorie,1_catégorie
+723,723,Enseigne réparation auto,10.0,AMO,1134.43,1134.43,D,1.0,CDI,Professions intermédiaires,Locataire,F,30.0,1400.0,1_catégorie,1_catégorie
+751,751,Enseigne réparation auto,10.0,AMO,359.56,359.56,M,0.0,CDI,Employés,Locataire,F,43.0,1418.0,1_catégorie,1_catégorie
+1057,1057,Enseigne Electroménager,20.0,REN,558.99,2000.0,M,2.0,CDI,Professions intermédiaires,Locataire,F,43.0,2600.0,3_catégorie,1_catégorie
+1131,1131,Enseigne Electroménager,15.0,AMO,1178.97,1178.97,C,0.0,CDI,Ouvriers,Locataire,M,37.0,3000.0,2_catégorie,1_catégorie
+1393,1393,Enseigne Electroménager,12.0,AMO,599.98,599.98,D,0.0,,Retraités,Locataire,F,68.0,800.0,1_catégorie,1_catégorie
+1413,1413,Enseigne Electroménager,10.0,REN,618.99,2000.0,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,27.0,2000.0,3_catégorie,1_catégorie
+1465,1465,Enseigne Electroménager,30.0,AMO,1018.99,1018.99,C,0.0,CDI,Employés,Locataire,M,23.0,2225.0,2_catégorie,1_catégorie
+1518,1518,Enseigne Electroménager,30.0,AMO,963.99,963.99,C,0.0,CDI,Ouvriers,Locataire,M,47.0,1700.0,1_catégorie,1_catégorie
+1544,1544,Enseigne Electroménager,10.0,AMO,653.98,653.98,C,0.0,,Retraités,Locataire,F,53.0,1000.0,1_catégorie,1_catégorie
+1545,1545,Enseigne Electroménager,24.0,REN,1878.99,2000.0,C,1.0,CDI,Professions intermédiaires,Logé par famille,F,29.0,1200.0,2_catégorie,1_catégorie
+1555,1555,Enseigne Electroménager,30.0,AMO,1692.97,1692.97,C,0.0,CDI,Ouvriers,Locataire,M,32.0,1950.0,2_catégorie,1_catégorie
+1606,1606,Enseigne Electroménager,12.0,AMO,1219.98,1219.98,C,0.0,CDI,Employés,Locataire,F,26.0,1600.0,2_catégorie,1_catégorie
+1624,1624,Enseigne réparation auto,4.0,REN,145.96,2000.0,D,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,35.0,2000.0,3_catégorie,1_catégorie
+1628,1628,Enseigne Electroménager,20.0,REN,992.98,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,29.0,1450.0,3_catégorie,1_catégorie
+1739,1739,Enseigne réparation auto,3.0,REN,141.97,2000.0,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,48.0,4000.0,2_catégorie,1_catégorie
+1751,1751,Enseigne réparation auto,3.0,REN,299.6,2000.0,C,0.0,CDI,Employés,Locataire,M,20.0,1480.0,3_catégorie,1_catégorie
+1760,1760,Enseigne Electroménager,4.0,AMO,1018.99,1018.99,C,0.0,CDI,Professions intermédiaires,Locataire,M,27.0,1700.0,1_catégorie,1_catégorie
+1762,1762,Enseigne Electroménager,15.0,AMO,1118.99,1118.99,C,0.0,CDI,Employés,Logé par famille,M,23.0,1450.0,1_catégorie,1_catégorie
+1778,1778,Enseigne Electroménager,20.0,AMO,913.97,913.97,M,2.0,CDI,Professions intermédiaires,Locataire,F,44.0,1300.0,1_catégorie,1_catégorie
+1932,1932,Enseigne Electroménager,15.0,AMO,1018.99,1018.99,C,0.0,CDI,Employés,Locataire,M,20.0,1450.0,1_catégorie,2_catégorie
+2045,2045,Enseigne Electroménager,5.0,AMO,379.99,379.99,M,2.0,CDI,Employés,Locataire,F,26.0,1200.0,1_catégorie,1_catégorie
+2154,2154,Enseigne Electroménager,12.0,AMO,1499.97,1499.97,C,3.0,CDI,Ouvriers,Locataire,F,23.0,1800.0,2_catégorie,1_catégorie
+2155,2155,Enseigne Electroménager,10.0,REN,919.98,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,20.0,1300.0,3_catégorie,1_catégorie
+2206,2206,Enseigne Electroménager,20.0,AMO,1379.98,1379.98,C,0.0,CDI,Employés,Logé par famille,F,18.0,1200.0,2_catégorie,1_catégorie
+2217,2217,Enseigne Electroménager,12.0,AMO,1399.98,1399.98,C,0.0,CDI,Ouvriers,Propriétaire,M,23.0,1900.0,2_catégorie,1_catégorie
+2230,2230,Enseigne Electroménager,12.0,AMO,2159.97,2159.97,C,0.0,CDI,Employés,Propriétaire,M,26.0,1900.0,2_catégorie,1_catégorie
+2235,2235,Enseigne Electroménager,5.0,AMO,899.98,899.98,C,0.0,CDI,Employés,Locataire,F,25.0,1500.0,1_catégorie,1_catégorie
+2284,2284,Enseigne Electroménager,33.0,AMO,975.16,975.16,C,0.0,,Retraités,Propriétaire,F,56.0,1200.0,1_catégorie,1_catégorie
+2287,2287,Enseigne Electroménager,10.0,AMO,612.99,612.99,M,2.0,CDI,Professions intermédiaires,Locataire,M,49.0,1900.0,1_catégorie,1_catégorie
+2289,2289,Enseigne Electroménager,12.0,AMO,893.97,893.97,D,0.0,CDI,Professions intermédiaires,Locataire,F,54.0,1500.0,1_catégorie,1_catégorie
+2323,2323,Enseigne Electroménager,33.0,REN,1667.83,2000.0,C,0.0,CDI,Employés,Propriétaire,F,48.0,1400.0,2_catégorie,1_catégorie
+2341,2341,Enseigne Electroménager,12.0,AMO,1018.99,1018.99,C,0.0,CDI,Ouvriers,Logé par famille,M,49.0,1200.0,1_catégorie,1_catégorie
+2470,2470,Enseigne Electroménager,12.0,AMO,1318.98,1318.98,C,1.0,CDI,Professions intermédiaires,Locataire,F,25.0,2100.0,2_catégorie,1_catégorie
+2582,2582,Enseigne Electroménager,30.0,AMO,947.99,947.99,C,2.0,CDI,Employés,Locataire,F,27.0,880.0,1_catégorie,1_catégorie
+2759,2759,Enseigne réparation auto,10.0,AMO,1641.05,1641.05,M,3.0,CDI,Ouvriers,Locataire,M,43.0,2800.0,2_catégorie,1_catégorie
+2764,2764,Enseigne Electroménager,20.0,AMO,1199.98,1199.98,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,M,40.0,2600.0,2_catégorie,1_catégorie
+2766,2766,Enseigne Electroménager,12.0,AMO,1120.06,1120.06,C,0.0,CDI,Ouvriers,Locataire,M,27.0,2200.0,2_catégorie,1_catégorie
+2787,2787,Enseigne Electroménager,12.0,AMO,1018.99,1018.99,C,1.0,CDI,Employés,Locataire,M,43.0,1956.0,1_catégorie,1_catégorie
+2796,2796,Enseigne Electroménager,30.0,AMO,1099.97,1099.97,C,0.0,CDI,Employés,Locataire,M,25.0,1712.92,2_catégorie,1_catégorie
+2971,2971,Enseigne Electroménager,20.0,AMO,713.98,713.98,C,2.0,CDI,Employés,Locataire,F,38.0,1200.0,1_catégorie,1_catégorie
+3090,3090,Enseigne Bijouterie,10.0,AMO,2000.0,2000.0,M,2.0,CDI,Employés,Locataire,M,47.0,2000.0,2_catégorie,1_catégorie
+3117,3117,Enseigne Bijouterie,10.0,AMO,676.0,676.0,S,0.0,CDI,Employés,Propriétaire,F,60.0,21600.0,Autres,1_catégorie
+3136,3136,Enseigne Bijouterie,10.0,AMO,1428.0,1428.0,C,0.0,CDI,Employés,Locataire,F,39.0,1860.0,2_catégorie,1_catégorie
+3142,3142,Enseigne Bijouterie,10.0,AMO,649.0,649.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,M,53.0,2800.0,1_catégorie,1_catégorie
+3144,3144,Enseigne Bijouterie,10.0,AMO,749.0,749.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,M,53.0,3000.0,1_catégorie,1_catégorie
+3145,3145,Enseigne Bijouterie,10.0,AMO,1590.0,1590.0,C,0.0,CDI,Employés,Propriétaire,M,57.0,5700.0,2_catégorie,1_catégorie
+3161,3161,Enseigne Bijouterie,10.0,AMO,661.0,661.0,M,1.0,CDI,Ouvriers,Locataire,M,28.0,1250.0,1_catégorie,1_catégorie
+3216,3216,Enseigne Optique 2,10.0,AMO,447.0,447.0,M,0.0,CDI,Ouvriers,Accession à la propriété,M,60.0,1400.0,1_catégorie,1_catégorie
+3273,3273,Enseigne Bijouterie,10.0,AMO,1090.0,1090.0,C,2.0,CDI,Employés,Logement de fonction,M,32.0,2000.0,2_catégorie,1_catégorie
+3278,3278,Enseigne Bijouterie,10.0,AMO,1233.0,1233.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,23.0,1400.0,2_catégorie,1_catégorie
+3481,3481,Enseigne Optique 2,10.0,AMO,411.0,411.0,C,1.0,CDI,Employés,Logé par famille,F,49.0,990.0,1_catégorie,1_catégorie
+3517,3517,Enseigne Electroménager,20.0,AMO,1282.99,1282.99,C,0.0,CDI,Employés,Locataire,M,28.0,1350.0,2_catégorie,1_catégorie
+3593,3593,Enseigne Electroménager,20.0,AMO,1143.98,1143.98,C,0.0,CDI,Employés,Locataire,M,20.0,1420.0,1_catégorie,1_catégorie
+3791,3791,Enseigne réparation auto,10.0,AMO,1799.0,1799.0,C,1.0,CDI,Employés,Logé par famille,M,19.0,1500.0,2_catégorie,1_catégorie
+3888,3888,Enseigne Bijouterie,5.0,AMO,400.0,400.0,C,1.0,CDI,Professions intermédiaires,Locataire,F,27.0,1500.0,1_catégorie,1_catégorie
+3903,3903,Enseigne Bijouterie,5.0,AMO,399.0,399.0,C,0.0,CDI,Employés,Logé par famille,M,25.0,1800.0,1_catégorie,1_catégorie
+3915,3915,Enseigne Bijouterie,5.0,AMO,615.0,615.0,C,0.0,CDI,Employés,Locataire,M,21.0,1700.0,1_catégorie,1_catégorie
+3928,3928,Enseigne Bijouterie,10.0,AMO,421.0,421.0,M,1.0,CDI,Employés,Locataire,F,26.0,1270.0,1_catégorie,1_catégorie
+3932,3932,Enseigne Bijouterie,10.0,AMO,1446.0,1446.0,C,0.0,CDI,Employés,Logé par famille,F,26.0,1240.0,2_catégorie,1_catégorie
+3936,3936,Enseigne Bijouterie,10.0,AMO,878.0,878.0,C,0.0,CDI,Professions intermédiaires,Propriétaire,M,44.0,2580.0,2_catégorie,1_catégorie
+3976,3976,Enseigne Bijouterie,10.0,AMO,1395.0,1395.0,C,0.0,CDI,Ouvriers,Locataire,M,55.0,1980.0,2_catégorie,1_catégorie
+3992,3992,Enseigne Bijouterie,10.0,AMO,1337.0,1337.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,21.0,2400.0,2_catégorie,1_catégorie
+4071,4071,Enseigne Bijouterie,10.0,AMO,1055.0,1055.0,C,2.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,F,43.0,1700.0,1_catégorie,1_catégorie
+4267,4267,Enseigne Bijouterie,10.0,AMO,1260.0,1260.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,26.0,2200.0,2_catégorie,1_catégorie
+4280,4280,Enseigne réparation auto,4.0,AMO,327.0,327.0,C,1.0,AUT,"Artisans, commerçants et chefs d'entreprise",Locataire,F,30.0,1300.0,1_catégorie,1_catégorie
+4297,4297,Enseigne Bijouterie,10.0,AMO,1318.0,1318.0,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,25.0,1800.0,2_catégorie,1_catégorie
+4307,4307,Enseigne Bijouterie,10.0,AMO,1389.0,1389.0,C,0.0,CDI,Employés,Logé par famille,F,37.0,1600.0,2_catégorie,1_catégorie
+4409,4409,Enseigne Electroménager,12.0,AMO,304.86,304.86,C,0.0,CDI,Ouvriers,Locataire,M,38.0,1400.0,1_catégorie,1_catégorie
+4492,4492,Enseigne Electroménager,15.0,AMO,1158.88,1158.88,C,1.0,AUT,"Artisans, commerçants et chefs d'entreprise",Locataire,M,32.0,2600.0,2_catégorie,1_catégorie
+4746,4746,Enseigne réparation auto,10.0,AMO,394.15,394.15,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,59.0,2600.0,1_catégorie,1_catégorie
+4748,4748,Enseigne Optique 2,10.0,AMO,997.0,997.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,19.0,2000.0,1_catégorie,1_catégorie
+4767,4767,Enseigne Optique 2,10.0,AMO,640.0,640.0,C,0.0,CDI,Employés,Logé par famille,M,26.0,1800.0,1_catégorie,3_catégorie
+5168,5168,Enseigne réparation auto,4.0,REN,758.15,2000.0,C,1.0,CDI,Professions intermédiaires,Locataire,F,45.0,2700.0,2_catégorie,1_catégorie
+5182,5182,Enseigne Electroménager,24.0,REN,1099.96,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,26.0,1250.0,3_catégorie,1_catégorie
+5192,5192,Enseigne Electroménager,20.0,AMO,956.98,956.98,C,0.0,CDI,Ouvriers,Locataire,F,23.0,1550.0,1_catégorie,1_catégorie
+5204,5204,Enseigne réparation auto,4.0,AMO,119.83,119.83,C,0.0,CDI,Ouvriers,Locataire,M,47.0,2000.0,1_catégorie,1_catégorie
+5280,5280,Enseigne Electroménager,30.0,REN,1501.97,2000.0,C,1.0,CDI,Employés,Locataire,F,28.0,1300.0,2_catégorie,1_catégorie
+5285,5285,Enseigne Electroménager,3.0,REN,305.99,2000.0,K,0.0,CDI,Professions intermédiaires,Locataire,F,19.0,1350.0,3_catégorie,1_catégorie
+5297,5297,Enseigne Electroménager,5.0,AMO,308.99,308.99,D,0.0,CDI,Ouvriers,Locataire,M,52.0,1400.0,1_catégorie,1_catégorie
+5348,5348,Enseigne réparation auto,4.0,REN,189.7,2000.0,C,0.0,CDI,Ouvriers,Logé par famille,M,25.0,1250.0,3_catégorie,1_catégorie
+5401,5401,Enseigne réparation auto,30.0,REN,0.0,1000.0,C,0.0,CDI,Ouvriers,Propriétaire,M,33.0,1840.0,1_catégorie,1_catégorie
+5467,5467,Enseigne réparation auto,34.0,REN,0.0,1000.0,C,0.0,,Invalidités,Locataire,F,54.0,1200.0,1_catégorie,1_catégorie
+5468,5468,Enseigne réparation auto,10.0,AMO,699.9,699.9,M,3.0,CDI,Ouvriers,Locataire,M,24.0,1700.0,1_catégorie,1_catégorie
+5551,5551,Enseigne réparation auto,10.0,AMO,991.28,991.28,D,0.0,CDI,Employés,Locataire,M,27.0,1395.0,1_catégorie,1_catégorie
+5586,5586,Enseigne réparation auto,4.0,REN,387.65,1500.0,C,3.0,CDI,Professions intermédiaires,Locataire,F,38.0,1300.0,3_catégorie,1_catégorie
+5883,5883,Enseigne réparation auto,4.0,REN,336.4,2000.0,C,0.0,CDI,Ouvriers,Locataire,F,23.0,1580.0,3_catégorie,1_catégorie
+5939,5939,Enseigne réparation auto,4.0,REN,217.58,2000.0,V,0.0,CDI,Employés,Locataire,M,57.0,2000.0,3_catégorie,1_catégorie
+5940,5940,Enseigne réparation auto,10.0,AMO,500.0,500.0,K,2.0,CDI,Ouvriers,Locataire,M,40.0,1700.0,1_catégorie,1_catégorie
+5957,5957,Enseigne réparation auto,4.0,REN,100.8,2000.0,C,0.0,CDI,Employés,Logé par famille,F,18.0,1200.0,3_catégorie,1_catégorie
+6057,6057,Enseigne réparation auto,4.0,REN,648.8,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,27.0,1800.0,3_catégorie,1_catégorie
+6149,6149,Enseigne réparation auto,1.0,REN,730.88,1500.0,M,1.0,CDI,Ouvriers,Locataire,M,41.0,3000.0,2_catégorie,1_catégorie
+6223,6223,Enseigne réparation auto,10.0,AMO,398.8,398.8,M,0.0,CDI,Professions intermédiaires,Locataire,M,42.0,1700.0,1_catégorie,1_catégorie
+6327,6327,Enseigne réparation auto,4.0,REN,169.78,3000.0,C,2.0,CDI,Professions intermédiaires,Propriétaire,F,46.0,1700.0,3_catégorie,1_catégorie
+6619,6619,Enseigne réparation auto,3.0,REN,299.79,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,38.0,1300.0,3_catégorie,1_catégorie
+6799,6799,Enseigne réparation auto,10.0,AMO,1233.35,1233.35,C,0.0,CDI,Employés,Locataire,M,57.0,2100.0,2_catégorie,1_catégorie
+6875,6875,Enseigne réparation auto,10.0,AMO,888.8,888.8,C,0.0,CDI,Employés,Locataire,M,28.0,1400.0,1_catégorie,1_catégorie
+6993,6993,Enseigne réparation auto,4.0,REN,697.0,1500.0,M,4.0,CDI,Ouvriers,Locataire,M,50.0,1500.0,3_catégorie,1_catégorie
+7298,7298,Enseigne réparation auto,4.0,REN,735.2,3000.0,K,0.0,CDI,Employés,Logement de fonction,F,28.0,1300.0,3_catégorie,1_catégorie
+7385,7385,Enseigne réparation auto,3.0,REN,287.4,2000.0,D,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,50.0,1600.0,3_catégorie,1_catégorie
+7495,7495,Enseigne réparation auto,10.0,AMO,565.95,565.95,C,0.0,CDI,Employés,Locataire,M,31.0,1600.0,1_catégorie,1_catégorie
+7598,7598,Enseigne réparation auto,4.0,AMO,543.89,543.89,C,0.0,CDD,Professions intermédiaires,Logé par famille,M,25.0,1200.0,1_catégorie,1_catégorie
+7613,7613,Enseigne réparation auto,4.0,REN,999.0,1500.0,C,0.0,CDI,Employés,Propriétaire,M,56.0,4000.0,2_catégorie,1_catégorie
+7734,7734,Enseigne réparation auto,3.0,REN,123.58,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,27.0,1456.0,3_catégorie,1_catégorie
+7741,7741,Enseigne réparation auto,3.0,REN,164.8,2000.0,K,0.0,CDI,Professions intermédiaires,Locataire,M,48.0,1658.0,3_catégorie,1_catégorie
+7823,7823,Enseigne réparation auto,10.0,AMO,997.6,997.6,C,0.0,CDI,Ouvriers,Locataire,M,32.0,2800.0,2_catégorie,1_catégorie
+7860,7860,Enseigne réparation auto,4.0,REN,199.9,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,41.0,2100.0,3_catégorie,1_catégorie
+7974,7974,Enseigne réparation auto,4.0,REN,156.58,2000.0,C,1.0,CDI,Professions intermédiaires,Locataire,F,25.0,1500.0,3_catégorie,1_catégorie
+8062,8062,Enseigne réparation auto,4.0,REN,404.2,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,34.0,1540.0,3_catégorie,1_catégorie
+8284,8284,Enseigne réparation auto,10.0,AMO,1274.02,1274.02,C,0.0,CDI,Ouvriers,Locataire,M,34.0,1864.0,2_catégorie,1_catégorie
+8686,8686,Enseigne réparation auto,10.0,AMO,509.01,509.01,M,0.0,CDI,Professions intermédiaires,Propriétaire,M,45.0,2000.0,1_catégorie,1_catégorie
+8944,8944,Enseigne réparation auto,4.0,REN,199.9,3000.0,M,2.0,CDI,Professions intermédiaires,Propriétaire,M,23.0,1300.0,3_catégorie,1_catégorie
+9635,9635,Enseigne réparation auto,4.0,REN,464.82,2000.0,K,2.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,M,45.0,3700.0,2_catégorie,1_catégorie
+9652,9652,Enseigne réparation auto,10.0,AMO,1987.89,1987.89,C,0.0,,Invalidités,Logé par famille,M,20.0,900.0,2_catégorie,1_catégorie
+9714,9714,Enseigne réparation auto,4.0,REN,281.56,2000.0,C,0.0,CDI,Ouvriers,Propriétaire,M,27.0,1400.0,3_catégorie,1_catégorie
+9889,9889,Enseigne réparation auto,4.0,REN,401.5,2000.0,D,1.0,CDI,Employés,Locataire,F,36.0,1250.0,3_catégorie,1_catégorie
+9947,9947,Enseigne réparation auto,10.0,AMO,373.66,373.66,C,0.0,CDI,Employés,Locataire,M,30.0,1700.0,1_catégorie,1_catégorie
+9955,9955,Enseigne réparation auto,10.0,AMO,810.15,810.15,C,0.0,CDI,Employés,Locataire,F,26.0,1900.0,1_catégorie,1_catégorie
+9997,9997,Enseigne réparation auto,10.0,AMO,545.94,545.94,M,0.0,CDI,Employés,Locataire,F,26.0,1142.0,1_catégorie,1_catégorie
+10049,10049,Enseigne réparation auto,10.0,AMO,487.82,487.82,C,0.0,CDI,Ouvriers,Locataire,M,27.0,1500.0,1_catégorie,1_catégorie
+10060,10060,Enseigne réparation auto,10.0,AMO,839.72,839.72,C,0.0,CDI,Professions intermédiaires,Locataire,F,22.0,1400.0,1_catégorie,1_catégorie
+10067,10067,Enseigne réparation auto,30.0,REN,0.0,1000.0,M,4.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,41.0,4000.0,1_catégorie,1_catégorie
+10098,10098,Enseigne réparation auto,4.0,REN,259.98,2000.0,C,0.0,CDI,Ouvriers,Propriétaire,M,55.0,1650.0,3_catégorie,1_catégorie
+10327,10327,Enseigne réparation auto,10.0,AMO,1200.0,1200.0,M,1.0,CDI,Professions intermédiaires,Propriétaire,M,33.0,1750.0,2_catégorie,1_catégorie
+10434,10434,Enseigne réparation auto,3.0,REN,124.58,2000.0,D,1.0,CDI,Professions intermédiaires,Locataire,F,46.0,1100.0,3_catégorie,1_catégorie
+10587,10587,Enseigne réparation auto,3.0,REN,616.6,3000.0,C,0.0,CDI,Employés,Locataire,M,32.0,1300.0,3_catégorie,1_catégorie
+10942,10942,Enseigne réparation auto,30.0,REN,0.0,1000.0,M,1.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,39.0,2800.0,1_catégorie,1_catégorie
+11133,11133,Enseigne réparation auto,4.0,REN,513.94,3000.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,25.0,2400.0,3_catégorie,1_catégorie
+11135,11135,Enseigne réparation auto,4.0,REN,241.48,3000.0,M,0.0,CDI,Employés,Locataire,F,47.0,2000.0,3_catégorie,1_catégorie
+11289,11289,Enseigne réparation auto,3.0,REN,233.16,3000.0,K,2.0,CDI,Ouvriers,Logé par famille,F,23.0,1537.0,3_catégorie,1_catégorie
+11608,11608,Enseigne réparation auto,1.0,REN,229.8,1500.0,C,0.0,CDI,Employés,Logé par famille,F,20.0,1200.0,3_catégorie,1_catégorie
+11713,11713,Enseigne réparation auto,3.0,AMO,194.8,194.8,C,0.0,CDI,Professions intermédiaires,Propriétaire,M,31.0,2600.0,1_catégorie,1_catégorie
+11961,11961,Enseigne réparation auto,10.0,AMO,633.7,633.7,C,0.0,CDI,Professions intermédiaires,Locataire,M,34.0,1135.0,1_catégorie,1_catégorie
+12027,12027,Enseigne réparation auto,3.0,REN,618.89,2000.0,V,0.0,,Invalidités,Locataire,F,59.0,1015.0,3_catégorie,1_catégorie
+12198,12198,Enseigne réparation auto,3.0,REN,306.97,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,21.0,1000.0,3_catégorie,1_catégorie
+12396,12396,Enseigne réparation auto,4.0,REN,168.68,1500.0,K,1.0,CDI,Professions intermédiaires,Locataire,M,31.0,1150.0,3_catégorie,1_catégorie
+12511,12511,Enseigne réparation auto,10.0,AMO,1034.61,1034.61,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,41.0,1350.0,1_catégorie,1_catégorie
+12528,12528,Enseigne réparation auto,10.0,AMO,990.0,990.0,S,1.0,CDI,Professions intermédiaires,Accession à la propriété,F,48.0,1550.0,1_catégorie,1_catégorie
+12586,12586,Enseigne réparation auto,4.0,REN,254.08,3000.0,K,1.0,CDI,Employés,Locataire,F,23.0,1000.0,3_catégorie,1_catégorie
+13015,13015,Enseigne réparation auto,4.0,AMO,227.57,227.57,K,2.0,,Sans activité professionnelle,Locataire,F,25.0,0.0,1_catégorie,1_catégorie
+13171,13171,Enseigne réparation auto,4.0,AMO,183.82,183.82,K,1.0,CDI,"Artisans, commerçants et chefs d'entreprise",Logé par famille,M,21.0,1900.0,1_catégorie,1_catégorie
+13217,13217,Enseigne réparation auto,4.0,REN,463.9,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,27.0,2200.0,3_catégorie,1_catégorie
+13239,13239,Enseigne réparation auto,3.0,REN,303.38,2000.0,C,0.0,CDI,Employés,Locataire,M,22.0,1200.0,3_catégorie,1_catégorie
+13328,13328,Enseigne réparation auto,5.0,AMO,400.0,400.0,M,1.0,CDI,Employés,Locataire,F,27.0,1200.0,1_catégorie,1_catégorie
+13379,13379,Enseigne réparation auto,3.0,REN,399.87,2000.0,C,0.0,CDI,Ouvriers,Propriétaire,M,39.0,1900.0,3_catégorie,1_catégorie
+13718,13718,Enseigne réparation auto,4.0,REN,235.58,3000.0,D,0.0,,Retraités,Locataire,M,62.0,1100.0,3_catégorie,1_catégorie
+13737,13737,Enseigne réparation auto,10.0,AMO,379.0,379.0,C,0.0,CDI,Employés,Logé par famille,M,18.0,900.0,1_catégorie,1_catégorie
+13786,13786,Enseigne réparation auto,3.0,REN,174.8,3000.0,C,0.0,CDI,Ouvriers,Locataire,F,21.0,1300.0,3_catégorie,1_catégorie
+13812,13812,Enseigne réparation auto,10.0,AMO,704.56,704.56,M,3.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,36.0,3000.0,1_catégorie,1_catégorie
+13887,13887,Enseigne réparation auto,4.0,REN,392.76,3000.0,D,1.0,CDI,Ouvriers,Locataire,F,54.0,1100.0,3_catégorie,1_catégorie
+13962,13962,Enseigne réparation auto,1.0,REN,94.9,2000.0,C,2.0,CDI,Ouvriers,Locataire,F,22.0,1100.0,3_catégorie,1_catégorie
+13968,13968,Enseigne réparation auto,10.0,AMO,500.0,500.0,C,0.0,CDI,Ouvriers,Logé par famille,F,18.0,1300.0,1_catégorie,1_catégorie
+13988,13988,Enseigne réparation auto,10.0,AMO,237.28,237.28,C,1.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,F,49.0,2200.0,1_catégorie,1_catégorie
+14031,14031,Enseigne réparation auto,10.0,AMO,243.58,243.58,D,0.0,CDI,Professions intermédiaires,Locataire,M,49.0,2200.0,1_catégorie,1_catégorie
+14032,14032,Enseigne réparation auto,10.0,AMO,999.0,999.0,C,0.0,CDI,Ouvriers,Logé par famille,M,34.0,1550.0,1_catégorie,1_catégorie
+14099,14099,Enseigne réparation auto,4.0,REN,748.99,2000.0,C,0.0,CDI,Employés,Locataire,M,30.0,1800.0,3_catégorie,1_catégorie
+14121,14121,Enseigne réparation auto,10.0,AMO,888.0,888.0,C,0.0,CDD,Ouvriers,Locataire,M,23.0,1200.0,1_catégorie,1_catégorie
+14392,14392,Enseigne réparation auto,4.0,REN,149.99,2000.0,K,0.0,CDI,Ouvriers,Logé par famille,M,51.0,1600.0,3_catégorie,1_catégorie
+14400,14400,Enseigne réparation auto,10.0,AMO,705.9,705.9,K,2.0,CDI,Professions intermédiaires,Locataire,M,23.0,900.0,1_catégorie,1_catégorie
+14417,14417,Enseigne réparation auto,10.0,AMO,150.9,150.9,M,4.0,CDI,Professions intermédiaires,Locataire,F,34.0,1577.0,1_catégorie,1_catégorie
+14523,14523,Enseigne réparation auto,10.0,AMO,699.9,699.9,K,0.0,CDI,Ouvriers,Logé par famille,F,19.0,1500.0,1_catégorie,1_catégorie
+14526,14526,Enseigne réparation auto,10.0,AMO,349.65,349.65,C,0.0,CDI,Employés,Propriétaire,M,31.0,1800.0,1_catégorie,1_catégorie
+14566,14566,Enseigne réparation auto,4.0,REN,1048.11,3000.0,C,0.0,CDI,Ouvriers,Propriétaire,M,23.0,1400.0,3_catégorie,1_catégorie
+14593,14593,Enseigne réparation auto,10.0,AMO,936.68,936.68,C,1.0,CDI,Professions intermédiaires,Locataire,M,23.0,1521.0,1_catégorie,1_catégorie
+14658,14658,Enseigne réparation auto,10.0,AMO,482.88,482.88,K,2.0,CDI,Professions intermédiaires,Locataire,F,32.0,1500.0,1_catégorie,1_catégorie
+14894,14894,Enseigne réparation auto,10.0,AMO,1464.0,1464.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,M,37.0,1850.0,2_catégorie,1_catégorie
+14997,14997,Enseigne réparation auto,4.0,REN,491.95,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,27.0,1500.0,3_catégorie,1_catégorie
+15024,15024,Enseigne réparation auto,10.0,AMO,659.86,659.86,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,40.0,1780.0,1_catégorie,1_catégorie
+15322,15322,Enseigne réparation auto,4.0,REN,522.89,2000.0,D,1.0,CDI,Employés,Locataire,F,32.0,2200.0,3_catégorie,1_catégorie
+15415,15415,Enseigne réparation auto,4.0,REN,148.58,2000.0,M,2.0,CDI,Employés,Locataire,F,48.0,1300.0,3_catégorie,1_catégorie
+15559,15559,Enseigne réparation auto,10.0,AMO,1385.2,1385.2,C,0.0,CDI,Professions intermédiaires,Locataire,M,20.0,1400.0,2_catégorie,1_catégorie
+15961,15961,Enseigne réparation auto,30.0,REN,0.0,1000.0,K,1.0,CDI,Professions intermédiaires,Propriétaire,M,25.0,1869.0,1_catégorie,1_catégorie
+15988,15988,Enseigne réparation auto,4.0,REN,487.7,2000.0,M,0.0,CDI,Ouvriers,Locataire,M,30.0,1250.0,3_catégorie,1_catégorie
+16033,16033,Enseigne réparation auto,10.0,AMO,577.42,577.42,C,0.0,CDI,Employés,Locataire,M,24.0,1400.0,1_catégorie,1_catégorie
+16046,16046,Enseigne réparation auto,10.0,AMO,408.06,408.06,C,0.0,CDI,Ouvriers,Locataire,M,34.0,1280.0,1_catégorie,1_catégorie
+16281,16281,Enseigne réparation auto,4.0,AMO,122.88,122.88,C,0.0,CDI,Ouvriers,Logé par famille,F,22.0,2000.0,1_catégorie,1_catégorie
+16306,16306,Enseigne réparation auto,10.0,AMO,1050.2,1050.2,C,0.0,CDI,Employés,Locataire,F,42.0,1384.55,1_catégorie,1_catégorie
+16398,16398,Enseigne réparation auto,10.0,AMO,999.0,999.0,C,0.0,CDI,Ouvriers,Locataire,M,40.0,2200.0,2_catégorie,1_catégorie
+16405,16405,Enseigne réparation auto,10.0,AMO,1212.99,1212.99,C,0.0,CDI,Employés,Locataire,M,37.0,1500.0,2_catégorie,1_catégorie
+16441,16441,Enseigne réparation auto,4.0,AMO,395.56,395.56,C,0.0,CDI,Employés,Locataire,F,20.0,1100.0,1_catégorie,1_catégorie
+16482,16482,Enseigne réparation auto,3.0,REN,127.87,2000.0,K,0.0,CDI,Employés,Logé par famille,F,21.0,1200.0,3_catégorie,1_catégorie
+16750,16750,Enseigne réparation auto,4.0,AMO,299.9,299.9,M,1.0,CDD,Ouvriers,Locataire,F,34.0,800.0,1_catégorie,1_catégorie
+16837,16837,Enseigne réparation auto,4.0,AMO,155.6,155.6,C,0.0,CDI,Ouvriers,Logé par famille,M,21.0,1200.0,1_catégorie,1_catégorie
+16869,16869,Enseigne réparation auto,10.0,AMO,649.1,649.1,C,0.0,CDI,Employés,Logé par famille,M,26.0,1600.0,1_catégorie,1_catégorie
+16871,16871,Enseigne réparation auto,1.0,REN,196.98,3000.0,K,3.0,INT,Ouvriers,Locataire,M,37.0,1495.0,3_catégorie,1_catégorie
+16940,16940,Enseigne réparation auto,4.0,AMO,255.4,255.4,M,1.0,CDI,Employés,Locataire,F,36.0,1350.0,1_catégorie,1_catégorie
+17020,17020,Enseigne réparation auto,30.0,REN,0.0,1000.0,C,0.0,CDI,Ouvriers,Logé par famille,M,37.0,1800.0,1_catégorie,1_catégorie
+17099,17099,Enseigne réparation auto,4.0,REN,677.12,2000.0,M,1.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,F,30.0,2250.0,3_catégorie,1_catégorie
+17155,17155,Enseigne réparation auto,4.0,REN,279.0,2000.0,C,1.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,F,38.0,2000.0,3_catégorie,1_catégorie
+17283,17283,Enseigne réparation auto,4.0,REN,219.58,2000.0,K,1.0,CDI,Employés,Logé par famille,F,21.0,1089.0,3_catégorie,1_catégorie
+17353,17353,Enseigne réparation auto,10.0,AMO,1162.15,1162.15,C,0.0,CDD,Ouvriers,Locataire,M,25.0,1300.0,1_catégorie,1_catégorie
+17464,17464,Enseigne réparation auto,10.0,AMO,575.16,575.16,C,0.0,CDI,Ouvriers,Locataire,M,28.0,1500.0,1_catégorie,1_catégorie
+17484,17484,Enseigne réparation auto,10.0,AMO,348.56,348.56,K,2.0,CDI,Employés,Locataire,F,28.0,1100.0,1_catégorie,1_catégorie
+17541,17541,Enseigne réparation auto,10.0,AMO,522.54,522.54,C,0.0,CDI,Employés,Locataire,F,34.0,1300.0,1_catégorie,1_catégorie
+17915,17915,Enseigne réparation auto,4.0,AMO,996.75,996.75,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Propriétaire,M,41.0,2000.0,1_catégorie,1_catégorie
+17939,17939,Enseigne réparation auto,4.0,REN,555.36,3000.0,C,1.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,F,39.0,1500.0,3_catégorie,1_catégorie
+18008,18008,Enseigne réparation auto,10.0,AMO,1000.0,1000.0,V,0.0,,Retraités,Locataire,M,67.0,1500.0,1_catégorie,1_catégorie
+18190,18190,Enseigne réparation auto,10.0,AMO,391.79,391.79,D,1.0,,Invalidités,Locataire,M,52.0,1250.0,1_catégorie,1_catégorie
+18291,18291,Enseigne réparation auto,4.0,REN,175.2,2000.0,S,0.0,,Retraités,Propriétaire,M,65.0,2100.0,3_catégorie,1_catégorie
+18440,18440,Enseigne réparation auto,10.0,AMO,1724.4,1724.4,C,0.0,CDI,Employés,Locataire,M,44.0,1767.0,2_catégorie,1_catégorie
+18593,18593,Enseigne réparation auto,10.0,AMO,500.83,500.83,D,0.0,CDI,Employés,Logé par famille,M,35.0,1500.0,1_catégorie,1_catégorie
+18797,18797,Enseigne réparation auto,4.0,AMO,421.6,421.6,K,1.0,CDD,Professions intermédiaires,Locataire,M,21.0,1500.0,1_catégorie,1_catégorie
+18843,18843,Enseigne réparation auto,4.0,REN,309.78,3000.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,21.0,1200.0,3_catégorie,1_catégorie
+18895,18895,Enseigne réparation auto,10.0,AMO,281.51,281.51,K,2.0,CDI,Employés,Accession à la propriété,F,45.0,1400.0,1_catégorie,1_catégorie
+18920,18920,Enseigne réparation auto,10.0,AMO,489.27,489.27,C,0.0,CDI,Employés,Locataire,M,44.0,1400.0,1_catégorie,1_catégorie
+19188,19188,Enseigne réparation auto,10.0,AMO,1647.68,1647.68,C,0.0,CDI,Ouvriers,Locataire,M,27.0,1100.0,2_catégorie,1_catégorie
+19202,19202,Enseigne réparation auto,3.0,REN,354.15,3000.0,D,3.0,CDI,Employés,Locataire,F,31.0,1300.0,3_catégorie,1_catégorie
+19345,19345,Enseigne réparation auto,4.0,REN,244.08,2000.0,M,3.0,CDI,Professions intermédiaires,Locataire,F,45.0,1200.0,3_catégorie,1_catégorie
+19467,19467,Enseigne réparation auto,4.0,REN,275.16,2000.0,D,0.0,,Retraités,Locataire,M,67.0,900.0,3_catégorie,1_catégorie
+19656,19656,Enseigne réparation auto,10.0,AMO,318.48,318.48,C,1.0,CDI,Employés,Logé par famille,M,26.0,1560.0,1_catégorie,1_catégorie
+19879,19879,Enseigne réparation auto,10.0,AMO,304.58,304.58,K,1.0,CDI,Professions intermédiaires,Logé par famille,F,33.0,1100.0,1_catégorie,1_catégorie
+19919,19919,Enseigne réparation auto,4.0,REN,434.97,3000.0,M,3.0,CDI,Ouvriers,Locataire,M,34.0,1500.0,3_catégorie,1_catégorie
+20072,20072,Enseigne réparation auto,30.0,REN,0.0,1000.0,K,0.0,CDI,Employés,Locataire,F,21.0,1200.0,1_catégorie,1_catégorie
+20117,20117,Enseigne réparation auto,4.0,REN,1047.98,3000.0,C,0.0,CDI,Employés,Locataire,F,27.0,1200.0,3_catégorie,1_catégorie
+20378,20378,Enseigne réparation auto,4.0,REN,604.53,3000.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,30.0,1300.0,3_catégorie,1_catégorie
+20428,20428,Enseigne réparation auto,4.0,REN,136.78,3000.0,C,0.0,CDI,Employés,Logé par famille,M,24.0,1480.0,3_catégorie,1_catégorie
+20714,20714,Enseigne réparation auto,4.0,REN,235.58,3000.0,M,2.0,CDI,Ouvriers,Locataire,F,43.0,1500.0,3_catégorie,1_catégorie
+20759,20759,Enseigne réparation auto,4.0,REN,505.48,3000.0,M,0.0,CDI,Ouvriers,Locataire,F,29.0,1150.0,3_catégorie,1_catégorie
+20800,20800,Enseigne réparation auto,10.0,AMO,639.2,639.2,K,0.0,CDI,Ouvriers,Logé par famille,M,22.0,1800.0,1_catégorie,3_catégorie
+20889,20889,Enseigne réparation auto,10.0,AMO,411.86,411.86,D,3.0,CDI,Employés,Logé par famille,F,32.0,1677.0,1_catégorie,1_catégorie
+20932,20932,Enseigne réparation auto,10.0,AMO,777.34,777.34,C,1.0,CDI,Professions intermédiaires,Locataire,M,50.0,1400.0,1_catégorie,1_catégorie
+21013,21013,Enseigne réparation auto,10.0,AMO,1434.81,1434.81,C,0.0,CDI,Ouvriers,Locataire,M,50.0,1900.0,2_catégorie,1_catégorie
+21309,21309,Enseigne réparation auto,10.0,REN,318.8,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,22.0,1200.0,3_catégorie,1_catégorie
+21315,21315,Enseigne réparation auto,4.0,AMO,263.53,263.53,M,0.0,CDI,Ouvriers,Locataire,M,40.0,1500.0,1_catégorie,1_catégorie
+21381,21381,Enseigne réparation auto,10.0,AMO,736.59,736.59,M,2.0,INT,Ouvriers,Locataire,M,44.0,2000.0,1_catégorie,1_catégorie
+21986,21986,Enseigne réparation auto,10.0,AMO,743.75,743.75,K,2.0,CDI,Ouvriers,Locataire,M,32.0,1400.0,1_catégorie,1_catégorie
+22201,22201,Enseigne réparation auto,3.0,REN,134.99,1500.0,M,2.0,CDI,Employés,Locataire,F,37.0,1200.0,3_catégorie,1_catégorie
+22459,22459,Enseigne réparation auto,4.0,REN,702.8,2000.0,C,0.0,CDI,Ouvriers,Propriétaire,M,36.0,1700.0,3_catégorie,1_catégorie
+22837,22837,Enseigne réparation auto,4.0,REN,737.99,3000.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,35.0,2300.0,3_catégorie,1_catégorie
+23082,23082,Enseigne réparation auto,10.0,AMO,664.6,664.6,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,29.0,1250.0,1_catégorie,1_catégorie
+23324,23324,Enseigne réparation auto,10.0,AMO,1448.08,1448.08,C,0.0,CDI,Professions intermédiaires,Locataire,F,27.0,2000.0,2_catégorie,1_catégorie
+23360,23360,Enseigne réparation auto,3.0,REN,1009.16,2000.0,C,0.0,CDI,Employés,Logement de fonction,M,22.0,1300.0,3_catégorie,1_catégorie
+23393,23393,Enseigne réparation auto,3.0,AMO,741.44,741.44,C,1.0,CDI,Employés,Locataire,F,27.0,1300.0,1_catégorie,1_catégorie
+23489,23489,Enseigne réparation auto,4.0,REN,302.11,2000.0,C,1.0,CDI,Employés,Locataire,F,25.0,1285.0,3_catégorie,1_catégorie
+23547,23547,Enseigne réparation auto,20.0,REN,911.83,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,35.0,1500.0,3_catégorie,1_catégorie
+24087,24087,Enseigne réparation auto,3.0,REN,340.6,3000.0,K,2.0,CDI,Employés,Locataire,F,46.0,1300.0,3_catégorie,1_catégorie
+24274,24274,Enseigne réparation auto,4.0,REN,114.0,3000.0,C,0.0,CDI,Ouvriers,Locataire,M,28.0,1600.0,3_catégorie,1_catégorie
+24324,24324,Enseigne réparation auto,10.0,AMO,578.89,578.89,C,0.0,CDI,Ouvriers,Locataire,M,28.0,1500.0,1_catégorie,1_catégorie
+24325,24325,Enseigne réparation auto,10.0,AMO,767.16,767.16,K,1.0,CDI,Employés,Locataire,M,24.0,1400.0,1_catégorie,1_catégorie
+24377,24377,Enseigne réparation auto,3.0,REN,339.63,2000.0,D,0.0,,Retraités,Accession à la propriété,M,63.0,2800.0,3_catégorie,1_catégorie
+24496,24496,Enseigne réparation auto,4.0,REN,506.88,2000.0,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,32.0,1200.0,3_catégorie,1_catégorie
+24565,24565,Enseigne réparation auto,4.0,REN,434.58,3000.0,M,1.0,CDI,Employés,Propriétaire,M,27.0,2000.0,3_catégorie,1_catégorie
+24603,24603,Enseigne réparation auto,4.0,AMO,293.99,293.99,C,0.0,CDI,Employés,Logé par famille,M,24.0,1500.0,1_catégorie,1_catégorie
+24626,24626,Enseigne réparation auto,4.0,REN,552.83,2000.0,M,2.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,35.0,1350.0,3_catégorie,1_catégorie
+25031,25031,Enseigne réparation auto,10.0,AMO,622.9,622.9,D,2.0,CDI,Ouvriers,Locataire,M,39.0,1500.0,1_catégorie,1_catégorie
+25365,25365,Enseigne réparation auto,4.0,AMO,238.45,238.45,C,0.0,CDD,Employés,Locataire,F,20.0,1100.0,1_catégorie,1_catégorie
+25387,25387,Enseigne réparation auto,10.0,AMO,683.29,683.29,D,2.0,CDI,Employés,Locataire,F,46.0,1200.0,1_catégorie,1_catégorie
+25495,25495,Enseigne réparation auto,4.0,REN,142.98,3000.0,D,0.0,CDI,Employés,Locataire,F,63.0,800.0,3_catégorie,1_catégorie
+25504,25504,Enseigne réparation auto,4.0,REN,462.95,2000.0,V,0.0,,Retraités,Locataire,F,75.0,1200.0,3_catégorie,1_catégorie
+25849,25849,Enseigne réparation auto,4.0,AMO,525.78,525.78,S,0.0,CDI,Professions intermédiaires,Accession à la propriété,M,32.0,1300.0,1_catégorie,1_catégorie
+25875,25875,Enseigne réparation auto,4.0,AMO,325.6,325.6,C,0.0,CDD,Employés,Locataire,F,28.0,2600.0,1_catégorie,1_catégorie
+26648,26648,Enseigne réparation auto,10.0,AMO,1353.0,1353.0,C,0.0,CDI,Employés,Logé par famille,M,52.0,1750.0,2_catégorie,1_catégorie
+26720,26720,Enseigne réparation auto,4.0,REN,217.0,3000.0,K,1.0,CDI,Employés,Accession à la propriété,F,55.0,2000.0,3_catégorie,1_catégorie
+26843,26843,Enseigne réparation auto,4.0,AMO,235.8,235.8,M,4.0,CDI,Ouvriers,Accession à la propriété,F,34.0,1800.0,1_catégorie,1_catégorie
+26909,26909,Enseigne Electroménager,30.0,AMO,1607.99,1607.99,C,0.0,CDI,Employés,Locataire,M,25.0,2250.0,2_catégorie,1_catégorie
+26942,26942,Enseigne Electroménager,20.0,AMO,1797.98,1797.98,K,1.0,CDI,Employés,Logé par famille,F,19.0,1300.0,2_catégorie,1_catégorie
+27004,27004,Enseigne Electroménager,20.0,AMO,1836.99,1836.99,C,0.0,CDI,Employés,Locataire,F,64.0,1480.0,2_catégorie,1_catégorie
+27019,27019,Enseigne Electroménager,20.0,AMO,1987.74,1987.74,C,2.0,CDI,Employés,Locataire,F,35.0,1780.0,2_catégorie,1_catégorie
+27105,27105,Enseigne Electroménager,5.0,AMO,403.99,403.99,C,0.0,CDI,Employés,Logé par famille,M,21.0,900.0,1_catégorie,1_catégorie
+27168,27168,Enseigne Electroménager,15.0,REN,639.99,1500.0,C,0.0,CDI,Ouvriers,Locataire,M,28.0,1800.0,3_catégorie,1_catégorie
+27249,27249,Enseigne Electroménager,5.0,AMO,941.98,941.98,M,1.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,34.0,2200.0,1_catégorie,1_catégorie
+27269,27269,Enseigne Electroménager,20.0,AMO,1263.98,1263.98,C,0.0,CDI,Employés,Propriétaire,F,45.0,1680.0,2_catégorie,1_catégorie
+27312,27312,Enseigne Electroménager,10.0,REN,300.0,1500.0,C,0.0,,Retraités,Locataire,F,67.0,1481.0,3_catégorie,1_catégorie
+27539,27539,Enseigne Electroménager,20.0,AMO,1499.99,1499.99,C,0.0,CDI,Professions intermédiaires,Locataire,F,24.0,1550.0,2_catégorie,1_catégorie
+27542,27542,Enseigne Electroménager,30.0,AMO,1786.8,1786.8,C,3.0,CDI,Employés,Locataire,F,36.0,1400.0,2_catégorie,1_catégorie
+27559,27559,Enseigne Electroménager,12.0,AMO,1309.98,1309.98,C,0.0,CDI,Ouvriers,Locataire,M,31.0,1980.0,2_catégorie,1_catégorie
+27608,27608,Enseigne Electroménager,10.0,REN,556.99,1500.0,C,2.0,CDI,Employés,Logé par famille,F,32.0,1350.0,3_catégorie,1_catégorie
+27639,27639,Enseigne Electroménager,20.0,AMO,1499.99,1499.99,C,0.0,CDI,Ouvriers,Locataire,M,28.0,2300.0,2_catégorie,1_catégorie
+27640,27640,Enseigne Electroménager,12.0,AMO,1094.97,1094.97,C,1.0,CDI,Employés,Locataire,F,20.0,1100.0,1_catégorie,1_catégorie
+27648,27648,Enseigne Electroménager,15.0,REN,582.99,1500.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,23.0,1600.0,3_catégorie,1_catégorie
+27729,27729,Enseigne Electroménager,20.0,AMO,1182.98,1182.98,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,26.0,1420.0,2_catégorie,1_catégorie
+27737,27737,Enseigne Electroménager,15.0,AMO,1220.97,1220.97,C,0.0,CDI,Employés,Propriétaire,M,20.0,1400.0,2_catégorie,1_catégorie
+27747,27747,Enseigne Electroménager,12.0,AMO,1194.97,1194.97,C,0.0,CDI,Employés,Locataire,F,26.0,1900.0,2_catégorie,1_catégorie
+27806,27806,Enseigne Electroménager,10.0,REN,451.99,1500.0,C,0.0,CDI,Employés,Logé par famille,F,24.0,760.0,3_catégorie,1_catégorie
+27839,27839,Enseigne Electroménager,20.0,AMO,1107.99,1107.99,C,0.0,CDI,Employés,Locataire,F,30.0,1800.0,2_catégorie,1_catégorie
+27890,27890,Enseigne Electroménager,12.0,AMO,1189.96,1189.96,C,0.0,CDI,Ouvriers,Locataire,M,35.0,1400.0,2_catégorie,1_catégorie
+27895,27895,Enseigne Electroménager,12.0,AMO,1199.98,1199.98,C,0.0,CDI,Employés,Locataire,M,24.0,1900.0,2_catégorie,1_catégorie
+27906,27906,Enseigne Electroménager,12.0,AMO,1046.97,1046.97,M,0.0,CDI,Employés,Locataire,M,33.0,2200.0,2_catégorie,1_catégorie
+27921,27921,Enseigne Electroménager,10.0,REN,1126.99,1500.0,C,0.0,CDI,Ouvriers,Locataire,M,48.0,1500.0,2_catégorie,1_catégorie
+27977,27977,Enseigne Electroménager,12.0,AMO,718.98,718.98,C,0.0,CDI,Ouvriers,Locataire,M,52.0,1400.0,1_catégorie,1_catégorie
+28004,28004,Enseigne Electroménager,18.0,REN,1461.17,1500.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,48.0,3300.0,2_catégorie,1_catégorie
+28008,28008,Enseigne Electroménager,18.0,REN,1046.0,1500.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,M,28.0,2150.0,2_catégorie,1_catégorie
+28009,28009,Enseigne Electroménager,15.0,REN,990.97,1500.0,C,0.0,CDI,Employés,Locataire,F,32.0,1350.0,2_catégorie,1_catégorie
+28015,28015,Enseigne Electroménager,15.0,REN,1193.17,1500.0,C,0.0,CDI,Ouvriers,Logé par famille,F,23.0,1500.0,2_catégorie,1_catégorie
+28045,28045,Enseigne Electroménager,20.0,AMO,1450.46,1450.46,C,0.0,CDI,Employés,Propriétaire,M,52.0,1520.0,2_catégorie,1_catégorie
+28047,28047,Enseigne Electroménager,15.0,REN,1030.0,1500.0,C,0.0,CDI,Ouvriers,Locataire,M,29.0,1750.0,2_catégorie,1_catégorie
+28048,28048,Enseigne Electroménager,15.0,REN,1270.13,1500.0,C,0.0,CDI,Employés,Locataire,F,30.0,2300.0,2_catégorie,1_catégorie
+28056,28056,Enseigne Electroménager,15.0,REN,1485.26,1500.0,C,0.0,CDI,Employés,Locataire,F,25.0,1400.0,2_catégorie,1_catégorie
+28061,28061,Enseigne Electroménager,15.0,REN,1930.98,2000.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,47.0,1900.0,2_catégorie,1_catégorie
+28077,28077,Enseigne Electroménager,3.0,REN,599.99,1500.0,C,0.0,CDI,Ouvriers,Locataire,F,24.0,1460.0,3_catégorie,1_catégorie
+28084,28084,Enseigne Electroménager,15.0,AMO,798.98,798.98,S,0.0,CDI,Employés,Locataire,M,50.0,2500.0,1_catégorie,1_catégorie
+28126,28126,Enseigne Electroménager,20.0,AMO,1907.97,1907.97,C,0.0,,"Artisans, commerçants et chefs d'entreprise",Propriétaire,M,44.0,1870.0,2_catégorie,1_catégorie
+28133,28133,Enseigne Electroménager,20.0,AMO,1469.95,1469.95,C,0.0,CDI,Employés,Locataire,M,25.0,1980.0,2_catégorie,1_catégorie
+28149,28149,Enseigne Electroménager,10.0,AMO,470.14,470.14,C,0.0,CDI,Employés,Locataire,M,57.0,2300.0,1_catégorie,1_catégorie
+28221,28221,Enseigne Electroménager,12.0,AMO,900.0,900.0,C,0.0,CDI,Employés,Locataire,M,23.0,1600.0,1_catégorie,1_catégorie
+28264,28264,Enseigne Electroménager,20.0,AMO,922.99,922.99,C,2.0,CDI,Employés,Locataire,F,28.0,1460.0,1_catégorie,1_catégorie
+28304,28304,Enseigne Electroménager,5.0,AMO,291.57,291.57,C,0.0,,Retraités,Locataire,M,60.0,1500.0,1_catégorie,1_catégorie
+28328,28328,Enseigne Electroménager,15.0,AMO,1022.99,1022.99,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,22.0,1500.0,1_catégorie,1_catégorie
+28429,28429,Enseigne Electroménager,20.0,AMO,742.98,742.98,C,1.0,CDI,Employés,Logé par famille,F,21.0,1200.0,1_catégorie,1_catégorie
+28466,28466,Enseigne Electroménager,12.0,AMO,1435.98,1435.98,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,F,22.0,2350.0,2_catégorie,1_catégorie
+28481,28481,Enseigne Electroménager,4.0,AMO,1200.0,1200.0,C,0.0,CDI,Employés,Logé par famille,F,19.0,1600.0,2_catégorie,1_catégorie
+28486,28486,Enseigne Electroménager,15.0,AMO,582.99,582.99,V,0.0,,Retraités,Locataire,F,61.0,950.0,1_catégorie,1_catégorie
+28568,28568,Enseigne Electroménager,5.0,AMO,449.99,449.99,C,0.0,CDI,Ouvriers,Logé par famille,M,26.0,1000.0,1_catégorie,1_catégorie
+28618,28618,Enseigne Electroménager,20.0,AMO,1248.98,1248.98,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,33.0,1350.0,2_catégorie,1_catégorie
+28620,28620,Enseigne Electroménager,10.0,REN,418.98,3000.0,K,5.0,CDI,Professions intermédiaires,Locataire,F,35.0,1100.0,3_catégorie,1_catégorie
+28749,28749,Enseigne Electroménager,20.0,AMO,563.99,563.99,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,34.0,1250.0,1_catégorie,1_catégorie
+28866,28866,Enseigne Electroménager,18.0,REN,549.99,3000.0,M,1.0,CDI,Employés,Locataire,M,41.0,1600.0,3_catégorie,1_catégorie
+28960,28960,Enseigne Electroménager,20.0,AMO,1432.99,1432.99,C,0.0,CDI,Ouvriers,Locataire,M,29.0,2200.0,2_catégorie,1_catégorie
+28982,28982,Enseigne Electroménager,12.0,AMO,1490.0,1490.0,C,0.0,CDI,Employés,Locataire,M,53.0,1780.0,2_catégorie,1_catégorie
+29016,29016,Enseigne Electroménager,3.0,REN,382.99,3000.0,V,1.0,CDI,Employés,Propriétaire,F,52.0,1600.0,3_catégorie,1_catégorie
+29079,29079,Enseigne Electroménager,20.0,AMO,1792.96,1792.96,C,0.0,CDI,Ouvriers,Locataire,M,23.0,2200.0,2_catégorie,1_catégorie
+29492,29492,Enseigne Electroménager,33.0,AMO,1178.98,1178.98,C,0.0,,Invalidités,Propriétaire,M,53.0,1053.0,1_catégorie,1_catégorie
+29569,29569,Enseigne Electroménager,20.0,AMO,1849.98,1849.98,C,0.0,CDI,Ouvriers,Locataire,M,24.0,3500.0,2_catégorie,1_catégorie
+29595,29595,Enseigne réparation auto,4.0,AMO,592.73,592.73,C,0.0,CDI,Professions intermédiaires,Propriétaire,F,28.0,1680.0,1_catégorie,Autres
+29606,29606,Enseigne réparation auto,4.0,AMO,592.73,592.73,C,0.0,CDI,Professions intermédiaires,Propriétaire,F,28.0,1680.0,1_catégorie,Autres
+29610,29610,Enseigne Electroménager,12.0,AMO,463.99,463.99,M,2.0,CDI,Professions intermédiaires,Accession à la propriété,F,37.0,1500.0,1_catégorie,1_catégorie
+29623,29623,Enseigne Electroménager,12.0,AMO,1018.99,1018.99,C,0.0,CDI,Ouvriers,Logé par famille,M,20.0,1450.0,1_catégorie,2_catégorie
+29662,29662,Enseigne Electroménager,5.0,AMO,798.98,798.98,C,0.0,CDI,Employés,Locataire,M,25.0,2300.0,1_catégorie,1_catégorie
+29723,29723,Enseigne Electroménager,5.0,AMO,1499.98,1499.98,C,0.0,CDI,Employés,Locataire,F,27.0,1750.0,2_catégorie,1_catégorie
+29938,29938,Enseigne Electroménager,12.0,AMO,1449.98,1449.98,C,0.0,CDI,Professions intermédiaires,Locataire,M,28.0,1800.0,2_catégorie,1_catégorie
+30016,30016,Enseigne réparation auto,4.0,REN,339.17,2000.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,30.0,1600.0,3_catégorie,1_catégorie
+30024,30024,Enseigne réparation auto,4.0,AMO,309.57,309.57,M,1.0,CDD,Employés,Locataire,M,44.0,1200.0,1_catégorie,1_catégorie
+30188,30188,Enseigne Electroménager,30.0,AMO,648.99,648.99,C,0.0,,Retraités,Accession à la propriété,M,57.0,2500.0,1_catégorie,1_catégorie
+30205,30205,Enseigne Electroménager,30.0,AMO,1841.46,1841.46,C,0.0,CDI,Professions intermédiaires,Logé par famille,F,20.0,1260.0,2_catégorie,1_catégorie
+30324,30324,Enseigne Electroménager,12.0,AMO,300.0,300.0,C,0.0,CDI,Employés,Locataire,M,53.0,1500.0,1_catégorie,1_catégorie
+30556,30556,Enseigne Electroménager,5.0,AMO,229.99,229.99,C,2.0,CDI,Ouvriers,Locataire,F,21.0,1500.0,1_catégorie,1_catégorie
+30622,30622,Enseigne Electroménager,15.0,REN,328.99,2000.0,C,0.0,CDI,Ouvriers,Locataire,F,19.0,1400.0,3_catégorie,1_catégorie
+30686,30686,Enseigne Electroménager,15.0,REN,369.98,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,28.0,1300.0,3_catégorie,1_catégorie
+30748,30748,Enseigne Electroménager,20.0,AMO,879.98,879.98,K,0.0,CDI,Employés,Locataire,F,20.0,1200.0,1_catégorie,1_catégorie
+30775,30775,Enseigne Electroménager,30.0,AMO,823.99,823.99,M,0.0,CDI,Employés,Propriétaire,M,56.0,1200.0,1_catégorie,1_catégorie
+30833,30833,Enseigne réparation auto,10.0,AMO,219.39,219.39,M,1.0,CDI,Professions intermédiaires,Accession à la propriété,F,33.0,1950.0,1_catégorie,1_catégorie
+30880,30880,Enseigne Electroménager,30.0,AMO,1500.0,1500.0,M,2.0,CDI,Ouvriers,Locataire,M,30.0,1600.0,2_catégorie,1_catégorie
+30894,30894,Enseigne Electroménager,15.0,AMO,907.98,907.98,D,0.0,,Retraités,Locataire,M,65.0,1200.0,1_catégorie,1_catégorie
+31040,31040,Enseigne Electroménager,30.0,AMO,1499.99,1499.99,C,2.0,CDI,Ouvriers,Locataire,F,24.0,1800.0,2_catégorie,1_catégorie
+31359,31359,Enseigne Electroménager,10.0,REN,350.0,2000.0,K,2.0,CDI,Employés,Locataire,F,52.0,1100.0,3_catégorie,1_catégorie
+31377,31377,Enseigne Electroménager,20.0,AMO,655.0,655.0,S,0.0,CDI,Employés,Locataire,F,58.0,1300.0,1_catégorie,1_catégorie
+31619,31619,Enseigne Electroménager,4.0,AMO,399.99,399.99,M,2.0,CDI,Professions intermédiaires,Locataire,M,42.0,1400.0,1_catégorie,1_catégorie
+31715,31715,Enseigne Electroménager,5.0,AMO,449.99,449.99,M,4.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,36.0,1200.0,1_catégorie,1_catégorie
+31800,31800,Enseigne Electroménager,30.0,AMO,918.99,918.99,K,2.0,CDI,Ouvriers,Locataire,M,27.0,1700.0,1_catégorie,1_catégorie
+32079,32079,Enseigne réparation auto,30.0,REN,0.0,1000.0,M,0.0,,Retraités,Propriétaire,M,69.0,2680.0,1_catégorie,1_catégorie
+32118,32118,Enseigne Electroménager,10.0,REN,999.0,3000.0,C,0.0,CDI,Ouvriers,Logé par famille,M,27.0,1450.0,3_catégorie,1_catégorie
+32195,32195,Enseigne Electroménager,15.0,AMO,1018.99,1018.99,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Logé par famille,F,20.0,1700.0,1_catégorie,1_catégorie
+32325,32325,Enseigne Electroménager,15.0,AMO,412.99,412.99,K,0.0,CDI,Ouvriers,Locataire,M,35.0,1400.0,1_catégorie,1_catégorie
+32352,32352,Enseigne Electroménager,30.0,AMO,700.69,700.69,C,0.0,CDI,Ouvriers,Logé par famille,M,41.0,1500.0,1_catégorie,1_catégorie
+32372,32372,Enseigne Electroménager,30.0,AMO,1959.0,1959.0,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,26.0,1800.0,2_catégorie,1_catégorie
+32405,32405,Enseigne Electroménager,10.0,AMO,798.98,798.98,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,19.0,1289.0,1_catégorie,1_catégorie
+32413,32413,Enseigne Electroménager,30.0,AMO,1185.0,1185.0,C,0.0,,Retraités,Locataire,F,67.0,1100.0,1_catégorie,1_catégorie
+32472,32472,Enseigne Electroménager,10.0,REN,478.98,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,58.0,1200.0,3_catégorie,1_catégorie
+32546,32546,Enseigne Electroménager,20.0,AMO,358.99,358.99,M,0.0,CDI,Ouvriers,Locataire,M,59.0,1390.0,1_catégorie,1_catégorie
+32799,32799,Enseigne Electroménager,20.0,AMO,1163.99,1163.99,C,0.0,CDI,Employés,Locataire,F,23.0,1200.0,1_catégorie,1_catégorie
+32808,32808,Enseigne Electroménager,30.0,AMO,1686.0,1686.0,C,0.0,CDI,Ouvriers,Locataire,M,31.0,1600.0,2_catégorie,1_catégorie
+32978,32978,Enseigne Electroménager,15.0,AMO,1669.97,1669.97,C,1.0,CDI,Employés,Locataire,M,42.0,1881.0,2_catégorie,1_catégorie
+33006,33006,Enseigne Electroménager,30.0,AMO,1862.98,1862.98,C,0.0,CDI,Employés,Locataire,M,26.0,1590.0,2_catégorie,1_catégorie
+33121,33121,Enseigne Electroménager,12.0,AMO,1007.0,1007.0,C,0.0,CDI,Ouvriers,Locataire,M,23.0,1600.0,1_catégorie,1_catégorie
+33191,33191,Enseigne Electroménager,30.0,AMO,668.98,668.98,D,2.0,CDI,Employés,Locataire,F,34.0,1200.0,1_catégorie,1_catégorie
+33195,33195,Enseigne Electroménager,30.0,AMO,632.99,632.99,D,0.0,CDI,Ouvriers,Locataire,M,31.0,2500.0,1_catégorie,1_catégorie
+33216,33216,Enseigne Electroménager,20.0,AMO,962.96,962.96,K,0.0,CDI,Ouvriers,Logé par famille,F,20.0,1600.0,1_catégorie,1_catégorie
+33248,33248,Enseigne Electroménager,12.0,AMO,1474.28,1474.28,C,0.0,CDI,Ouvriers,Locataire,M,34.0,2400.0,2_catégorie,1_catégorie
+33402,33402,Enseigne réparation auto,4.0,AMO,430.66,430.66,K,2.0,CDD,Employés,Locataire,M,25.0,2380.0,1_catégorie,1_catégorie
+33474,33474,Enseigne Electroménager,12.0,AMO,1257.97,1257.97,C,0.0,CDI,Ouvriers,Locataire,M,38.0,2200.0,2_catégorie,1_catégorie
+33488,33488,Enseigne Electroménager,20.0,AMO,659.99,659.99,C,0.0,CDI,Ouvriers,Locataire,M,25.0,1900.0,1_catégorie,1_catégorie
+33506,33506,Enseigne Electroménager,30.0,AMO,1942.97,1942.97,C,0.0,CDI,Ouvriers,Locataire,F,43.0,1600.0,2_catégorie,1_catégorie
+33516,33516,Enseigne Electroménager,12.0,AMO,825.99,825.99,K,0.0,CDI,Ouvriers,Locataire,M,19.0,1500.0,1_catégorie,1_catégorie
+33651,33651,Enseigne réparation auto,10.0,AMO,752.3,752.3,K,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Logé par famille,M,20.0,1500.0,1_catégorie,1_catégorie
+33774,33774,Enseigne Electroménager,5.0,AMO,900.0,900.0,M,0.0,,Retraités,Propriétaire,M,68.0,4000.0,2_catégorie,1_catégorie
+33808,33808,Enseigne Electroménager,5.0,AMO,664.0,664.0,M,4.0,CDI,"Artisans, commerçants et chefs d'entreprise",Accession à la propriété,M,42.0,2300.0,1_catégorie,1_catégorie
+33827,33827,Enseigne Electroménager,10.0,AMO,329.98,329.98,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,50.0,1500.0,1_catégorie,1_catégorie
+33890,33890,Enseigne Electroménager,12.0,AMO,399.99,399.99,C,1.0,CDI,Employés,Locataire,F,36.0,1100.0,1_catégorie,1_catégorie
+34099,34099,Enseigne Electroménager,5.0,AMO,899.99,899.99,C,2.0,CDI,Employés,Locataire,F,27.0,1200.0,1_catégorie,1_catégorie
+34214,34214,Enseigne réparation auto,4.0,REN,114.78,2000.0,K,0.0,CDI,Professions intermédiaires,Propriétaire,F,28.0,2000.0,3_catégorie,1_catégorie
+34215,34215,Enseigne Electroménager,33.0,AMO,1142.97,1142.97,C,2.0,CDI,Ouvriers,Locataire,F,22.0,1200.0,1_catégorie,1_catégorie
+34263,34263,Enseigne Electroménager,4.0,AMO,399.99,399.99,C,0.0,CDI,Ouvriers,Logé par famille,M,19.0,1500.0,1_catégorie,1_catégorie
+34302,34302,Enseigne Electroménager,3.0,REN,549.98,2000.0,C,0.0,AUT,Cadres et professions intellectuelles supérieures,Locataire,M,23.0,1800.0,3_catégorie,1_catégorie
+34390,34390,Enseigne Electroménager,15.0,REN,358.99,3000.0,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,21.0,1650.0,3_catégorie,1_catégorie
+34534,34534,Enseigne réparation auto,3.0,REN,165.9,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,41.0,1300.0,3_catégorie,1_catégorie
+34975,34975,Enseigne Electroménager,12.0,AMO,310.32,310.32,C,2.0,,Invalidités,Logé par famille,F,41.0,1000.0,1_catégorie,1_catégorie
+35049,35049,Enseigne Electroménager,10.0,REN,533.99,2000.0,M,1.0,CDI,"Artisans, commerçants et chefs d'entreprise",Accession à la propriété,F,48.0,1800.0,3_catégorie,1_catégorie
+35133,35133,Enseigne Electroménager,5.0,AMO,200.0,200.0,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,F,22.0,1220.0,1_catégorie,1_catégorie
+35136,35136,Enseigne Electroménager,20.0,AMO,943.0,943.0,C,0.0,CDI,Ouvriers,Locataire,M,26.0,1600.0,1_catégorie,1_catégorie
+35375,35375,Enseigne Electroménager,15.0,AMO,633.98,633.98,P,1.0,CDI,Ouvriers,Locataire,M,23.0,1300.0,1_catégorie,1_catégorie
+35488,35488,Enseigne Electroménager,12.0,AMO,999.99,999.99,C,0.0,CDI,Professions intermédiaires,Locataire,F,19.0,1200.0,1_catégorie,1_catégorie
+35523,35523,Enseigne Electroménager,12.0,AMO,918.99,918.99,C,0.0,CDI,Ouvriers,Locataire,M,28.0,1130.0,1_catégorie,1_catégorie
+35567,35567,Enseigne Electroménager,15.0,REN,398.99,3000.0,C,2.0,CDI,Employés,Locataire,F,26.0,1200.0,3_catégorie,1_catégorie
+35607,35607,Enseigne Electroménager,15.0,AMO,446.96,446.96,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Propriétaire,M,51.0,1400.0,1_catégorie,1_catégorie
+35753,35753,Enseigne Electroménager,33.0,AMO,919.98,919.98,C,0.0,CDI,Employés,Logé par famille,M,19.0,1200.0,1_catégorie,1_catégorie
+36060,36060,Enseigne Electroménager,20.0,AMO,1446.98,1446.98,C,0.0,CDI,Professions intermédiaires,Locataire,M,24.0,2200.0,2_catégorie,1_catégorie
+36067,36067,Enseigne Electroménager,10.0,REN,1997.98,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,23.0,1500.0,2_catégorie,1_catégorie
+36073,36073,Enseigne Electroménager,15.0,AMO,381.48,381.48,C,0.0,CDI,Employés,Locataire,F,20.0,1600.0,1_catégorie,1_catégorie
+36093,36093,Enseigne Electroménager,12.0,AMO,582.99,582.99,C,0.0,CDI,Employés,Locataire,M,19.0,1400.0,1_catégorie,1_catégorie
+36110,36110,Enseigne Electroménager,20.0,AMO,1512.99,1512.99,C,0.0,CDI,Employés,Locataire,F,52.0,1700.0,2_catégorie,1_catégorie
+36185,36185,Enseigne Electroménager,3.0,REN,1497.99,1500.0,D,0.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,F,42.0,2200.0,2_catégorie,1_catégorie
+36196,36196,Enseigne Electroménager,4.0,AMO,1489.99,1489.99,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,M,61.0,2600.0,2_catégorie,1_catégorie
+36234,36234,Enseigne Electroménager,12.0,AMO,776.99,776.99,C,0.0,CDI,Professions intermédiaires,Locataire,M,25.0,2022.0,1_catégorie,1_catégorie
+36271,36271,Enseigne Electroménager,20.0,AMO,1133.93,1133.93,C,0.0,CDI,Professions intermédiaires,Locataire,F,21.0,1554.0,2_catégorie,1_catégorie
+36284,36284,Enseigne Electroménager,15.0,AMO,320.99,320.99,C,0.0,CDI,Professions intermédiaires,Logé par famille,F,31.0,1300.0,1_catégorie,1_catégorie
+36413,36413,Enseigne Electroménager,10.0,REN,637.98,2000.0,K,0.0,CDI,Ouvriers,Propriétaire,M,23.0,1300.0,3_catégorie,1_catégorie
+36427,36427,Enseigne Electroménager,30.0,AMO,659.96,659.96,K,0.0,CDI,Ouvriers,Propriétaire,F,18.0,1300.0,1_catégorie,1_catégorie
+36489,36489,Enseigne Electroménager,18.0,AMO,999.99,999.99,M,0.0,CDI,Ouvriers,Propriétaire,F,37.0,1380.0,1_catégorie,1_catégorie
+36516,36516,Enseigne Electroménager,30.0,AMO,1318.97,1318.97,M,0.0,CDI,Ouvriers,Locataire,F,30.0,1320.0,2_catégorie,1_catégorie
+36631,36631,Enseigne Electroménager,33.0,AMO,1971.0,1971.0,C,0.0,CDI,Employés,Locataire,M,23.0,1440.0,2_catégorie,1_catégorie
+36647,36647,Enseigne Electroménager,33.0,AMO,1999.0,1999.0,C,0.0,CDI,Ouvriers,Locataire,M,28.0,1720.0,2_catégorie,1_catégorie
+36664,36664,Enseigne Electroménager,24.0,REN,1582.96,2000.0,V,0.0,,Retraités,Propriétaire,M,65.0,1520.0,2_catégorie,1_catégorie
+36668,36668,Enseigne Electroménager,33.0,AMO,1999.99,1999.99,V,0.0,,Retraités,Propriétaire,M,83.0,1450.0,2_catégorie,1_catégorie
+36690,36690,Enseigne Electroménager,30.0,AMO,1194.97,1194.97,C,0.0,CDI,Ouvriers,Propriétaire,F,28.0,1480.0,2_catégorie,1_catégorie
+36724,36724,Enseigne Electroménager,33.0,REN,1981.98,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,23.0,1500.0,2_catégorie,1_catégorie
+37046,37046,Enseigne Electroménager,30.0,AMO,1999.99,1999.99,C,0.0,CDI,Employés,Logé par famille,M,37.0,1200.0,2_catégorie,1_catégorie
+37153,37153,Enseigne Electroménager,12.0,AMO,983.97,983.97,C,4.0,CDI,Employés,Locataire,F,34.0,1300.0,1_catégorie,1_catégorie
+37176,37176,Enseigne Electroménager,12.0,AMO,1118.99,1118.99,C,0.0,CDI,Employés,Locataire,M,31.0,1850.0,2_catégorie,1_catégorie
+37177,37177,Enseigne Electroménager,10.0,REN,918.99,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,21.0,1400.0,3_catégorie,1_catégorie
+37367,37367,Enseigne Electroménager,5.0,AMO,100.0,100.0,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,20.0,1200.0,1_catégorie,1_catégorie
+37381,37381,Enseigne Electroménager,12.0,AMO,1482.96,1482.96,C,0.0,CDI,Professions intermédiaires,Propriétaire,M,41.0,1500.0,2_catégorie,1_catégorie
+37453,37453,Enseigne Electroménager,12.0,AMO,1827.0,1827.0,C,0.0,CDI,Employés,Locataire,M,25.0,3200.0,2_catégorie,1_catégorie
+37475,37475,Enseigne Electroménager,30.0,AMO,1600.0,1600.0,C,0.0,CDI,Employés,Locataire,F,22.0,2200.0,2_catégorie,1_catégorie
+37502,37502,Enseigne Electroménager,30.0,AMO,2000.0,2000.0,C,0.0,CDI,Employés,Locataire,M,23.0,3500.0,2_catégorie,1_catégorie
+37503,37503,Enseigne Electroménager,30.0,AMO,2000.0,2000.0,C,0.0,CDI,Employés,Locataire,M,27.0,3200.0,2_catégorie,1_catégorie
+37679,37679,Enseigne Electroménager,30.0,AMO,1068.99,1068.99,S,2.0,CDI,Ouvriers,Locataire,M,41.0,1900.0,2_catégorie,1_catégorie
+37908,37908,Enseigne Electroménager,5.0,AMO,999.98,999.98,K,1.0,,Sans activité professionnelle,Locataire,F,43.0,900.0,1_catégorie,1_catégorie
+37925,37925,Enseigne Electroménager,15.0,AMO,977.98,977.98,C,0.0,CDI,Professions intermédiaires,Locataire,M,48.0,1700.0,1_catégorie,1_catégorie
+38050,38050,Enseigne Electroménager,4.0,AMO,1150.48,1150.48,D,1.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,F,34.0,2300.0,2_catégorie,1_catégorie
+38102,38102,Enseigne Electroménager,12.0,AMO,659.98,659.98,K,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Logé par famille,M,21.0,1000.0,1_catégorie,1_catégorie
+38240,38240,Enseigne Electroménager,15.0,AMO,899.99,899.99,D,0.0,CDI,Employés,Locataire,M,39.0,1100.0,1_catégorie,1_catégorie
+38356,38356,Enseigne Electroménager,30.0,AMO,1870.96,1870.96,C,0.0,,Retraités,Locataire,M,70.0,1400.0,2_catégorie,1_catégorie
+38401,38401,Enseigne Electroménager,30.0,AMO,1499.0,1499.0,C,0.0,CDI,Ouvriers,Logé par famille,M,28.0,2000.0,2_catégorie,1_catégorie
+38748,38748,Enseigne Electroménager,10.0,REN,449.99,1500.0,C,0.0,CDI,Employés,Logement de fonction,F,24.0,1420.0,3_catégorie,1_catégorie
+38982,38982,Enseigne Electroménager,5.0,AMO,399.99,399.99,S,2.0,CDI,Employés,Locataire,F,39.0,1200.0,1_catégorie,1_catégorie
+39040,39040,Enseigne Electroménager,30.0,AMO,1799.98,1799.98,C,0.0,CDI,Ouvriers,Locataire,M,49.0,1750.0,2_catégorie,1_catégorie
+39120,39120,Enseigne Electroménager,12.0,AMO,784.88,784.88,M,0.0,,Sans activité professionnelle,Locataire,M,48.0,639.0,1_catégorie,1_catégorie
+39181,39181,Enseigne Electroménager,10.0,REN,668.99,1500.0,C,2.0,CDI,Employés,Locataire,F,29.0,1300.0,3_catégorie,1_catégorie
+39197,39197,Enseigne Electroménager,15.0,AMO,429.99,429.99,C,0.0,CDI,Professions intermédiaires,Propriétaire,F,55.0,2800.0,1_catégorie,1_catégorie
+39275,39275,Enseigne Electroménager,20.0,REN,1428.99,1500.0,C,0.0,CDI,Employés,Logé par famille,M,22.0,1400.0,2_catégorie,1_catégorie
+39337,39337,Enseigne Electroménager,20.0,AMO,1499.99,1499.99,C,0.0,CDI,Employés,Locataire,F,62.0,1400.0,2_catégorie,1_catégorie
+39413,39413,Enseigne réparation auto,3.0,REN,325.78,2000.0,C,0.0,CDI,Employés,Locataire,M,28.0,2000.0,3_catégorie,1_catégorie
+39430,39430,Enseigne Electroménager,30.0,AMO,1018.99,1018.99,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,32.0,1500.0,1_catégorie,1_catégorie
+39444,39444,Enseigne Electroménager,30.0,AMO,1999.99,1999.99,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,32.0,2500.0,2_catégorie,1_catégorie
+39490,39490,Enseigne Electroménager,20.0,AMO,1398.99,1398.99,P,0.0,CDI,Employés,Locataire,M,25.0,1830.0,2_catégorie,1_catégorie
+39670,39670,Enseigne Electroménager,20.0,AMO,1878.99,1878.99,C,0.0,CDI,Employés,Logé par famille,F,32.0,1300.0,2_catégorie,1_catégorie
+39677,39677,Enseigne Electroménager,30.0,AMO,1647.98,1647.98,M,3.0,CDI,Professions intermédiaires,Locataire,M,39.0,2000.0,2_catégorie,1_catégorie
+39717,39717,Enseigne Electroménager,10.0,REN,478.99,3000.0,C,0.0,CDI,Ouvriers,Locataire,M,29.0,1300.0,3_catégorie,1_catégorie
+39939,39939,Enseigne Electroménager,5.0,AMO,259.99,259.99,K,2.0,CDI,Professions intermédiaires,Locataire,F,28.0,1300.0,1_catégorie,1_catégorie
+39943,39943,Enseigne Electroménager,30.0,AMO,949.99,949.99,C,0.0,CDI,Employés,Logé par famille,M,21.0,2300.0,2_catégorie,1_catégorie
+40211,40211,Enseigne Electroménager,12.0,AMO,1519.98,1519.98,C,0.0,CDI,Employés,Locataire,M,29.0,1800.0,2_catégorie,1_catégorie
+40228,40228,Enseigne Electroménager,10.0,AMO,763.99,763.99,M,2.0,CDI,Employés,Locataire,F,38.0,1200.0,1_catégorie,1_catégorie
+40386,40386,Enseigne Electroménager,5.0,AMO,164.99,164.99,M,2.0,CDI,Professions intermédiaires,Accession à la propriété,M,41.0,2200.0,1_catégorie,1_catégorie
+40389,40389,Enseigne Electroménager,30.0,AMO,1959.95,1959.95,V,0.0,,Retraités,Locataire,M,76.0,1100.0,2_catégorie,1_catégorie
+40424,40424,Enseigne Electroménager,30.0,AMO,1249.97,1249.97,D,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,F,51.0,1770.0,2_catégorie,1_catégorie
+40512,40512,Enseigne Electroménager,15.0,AMO,968.99,968.99,K,2.0,CDI,Professions intermédiaires,Locataire,M,40.0,1200.0,1_catégorie,1_catégorie
+40533,40533,Enseigne Electroménager,15.0,REN,968.99,2000.0,K,3.0,CDI,Professions intermédiaires,Locataire,F,34.0,1800.0,3_catégorie,1_catégorie
+40577,40577,Enseigne Electroménager,12.0,AMO,449.99,449.99,M,3.0,CDI,Professions intermédiaires,Propriétaire,M,44.0,1700.0,1_catégorie,1_catégorie
+40697,40697,Enseigne Electroménager,30.0,AMO,528.99,528.99,C,0.0,CDI,Employés,Locataire,M,32.0,1600.0,1_catégorie,1_catégorie
+40739,40739,Enseigne Electroménager,33.0,REN,663.99,2000.0,C,1.0,CDI,Professions intermédiaires,Locataire,F,32.0,1708.0,3_catégorie,1_catégorie
+40786,40786,Enseigne Electroménager,24.0,REN,833.97,2000.0,C,1.0,CDI,Professions intermédiaires,Locataire,F,24.0,1600.0,3_catégorie,1_catégorie
+40831,40831,Enseigne Electroménager,33.0,REN,1578.99,2000.0,C,3.0,CDI,Professions intermédiaires,Locataire,F,26.0,2575.0,2_catégorie,1_catégorie
+41008,41008,Enseigne réparation auto,10.0,AMO,261.58,261.58,K,2.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,34.0,6000.0,2_catégorie,1_catégorie
+41153,41153,Enseigne Electroménager,5.0,AMO,250.49,250.49,K,1.0,CDI,Employés,Locataire,F,25.0,980.0,1_catégorie,1_catégorie
+41334,41334,Enseigne Electroménager,20.0,AMO,999.99,999.99,C,0.0,CDI,Professions intermédiaires,Locataire,F,24.0,1480.0,1_catégorie,1_catégorie
+41359,41359,Enseigne Electroménager,12.0,AMO,469.98,469.98,C,1.0,CDI,Professions intermédiaires,Locataire,M,22.0,1350.0,1_catégorie,1_catégorie
+41406,41406,Enseigne Electroménager,15.0,AMO,1077.98,1077.98,C,0.0,CDI,Ouvriers,Logé par famille,M,19.0,1300.0,1_catégorie,1_catégorie
+41463,41463,Enseigne Electroménager,10.0,REN,1020.99,3000.0,C,0.0,CDI,Employés,Locataire,M,33.0,1800.0,3_catégorie,1_catégorie
+41530,41530,Enseigne Electroménager,10.0,AMO,1649.99,1649.99,C,0.0,CDI,Ouvriers,Locataire,M,36.0,2000.0,2_catégorie,1_catégorie
+41557,41557,Enseigne Electroménager,20.0,AMO,768.99,768.99,C,0.0,CDI,Employés,Locataire,M,24.0,1100.0,1_catégorie,1_catégorie
+41841,41841,Enseigne Electroménager,5.0,AMO,600.0,600.0,M,5.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,42.0,1200.0,1_catégorie,1_catégorie
+41860,41860,Enseigne Electroménager,30.0,AMO,1389.98,1389.98,C,0.0,CDI,Ouvriers,Locataire,M,52.0,1300.0,2_catégorie,1_catégorie
+42231,42231,Enseigne Electroménager,30.0,REN,1828.99,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,32.0,2400.0,2_catégorie,1_catégorie
+42489,42489,Enseigne Electroménager,15.0,AMO,1999.99,1999.99,D,0.0,CDI,Professions intermédiaires,Locataire,M,51.0,1840.0,2_catégorie,1_catégorie
+42946,42946,Enseigne Electroménager,10.0,REN,768.99,2000.0,V,0.0,CDI,Employés,Locataire,M,45.0,1857.0,3_catégorie,1_catégorie
+42947,42947,Enseigne Electroménager,20.0,REN,1018.97,2000.0,C,0.0,CDI,Employés,Propriétaire,F,28.0,1300.0,3_catégorie,1_catégorie
+42954,42954,Enseigne Electroménager,30.0,AMO,1999.99,1999.99,C,0.0,CDI,Employés,Locataire,M,28.0,4000.0,2_catégorie,1_catégorie
+42963,42963,Enseigne Electroménager,15.0,REN,1387.98,2000.0,C,0.0,CDI,Employés,Locataire,F,27.0,1450.0,2_catégorie,1_catégorie
+42978,42978,Enseigne Electroménager,30.0,AMO,1499.99,1499.99,C,0.0,CDI,Employés,Locataire,M,48.0,1600.0,2_catégorie,1_catégorie
+42981,42981,Enseigne Electroménager,30.0,AMO,899.99,899.99,C,0.0,,Retraités,Locataire,F,63.0,1200.0,1_catégorie,1_catégorie
+43009,43009,Enseigne Electroménager,24.0,REN,800.0,2000.0,C,0.0,CDI,Employés,Locataire,M,22.0,1300.0,3_catégorie,1_catégorie
+43043,43043,Enseigne Electroménager,30.0,AMO,450.0,450.0,C,0.0,,Retraités,Locataire,M,62.0,1800.0,1_catégorie,1_catégorie
+43045,43045,Enseigne Electroménager,30.0,AMO,1878.99,1878.99,C,0.0,CDI,Employés,Logé par famille,M,19.0,1480.0,2_catégorie,1_catégorie
+43065,43065,Enseigne Electroménager,30.0,AMO,1118.99,1118.99,C,0.0,CDI,Employés,Locataire,F,27.0,1350.0,1_catégorie,1_catégorie
+43069,43069,Enseigne Electroménager,30.0,AMO,1118.99,1118.99,C,0.0,CDI,Employés,Locataire,F,20.0,1300.0,1_catégorie,1_catégorie
+43079,43079,Enseigne Electroménager,30.0,AMO,1200.0,1200.0,C,0.0,CDI,Employés,Locataire,F,25.0,1750.0,2_catégorie,1_catégorie
+43096,43096,Enseigne Electroménager,30.0,AMO,1953.98,1953.98,C,0.0,CDI,Employés,Locataire,M,23.0,1400.0,2_catégorie,1_catégorie
+43107,43107,Enseigne Electroménager,30.0,REN,1999.98,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,34.0,1600.0,2_catégorie,1_catégorie
+43110,43110,Enseigne Electroménager,30.0,AMO,1878.98,1878.98,D,2.0,CDI,Professions intermédiaires,Locataire,F,27.0,1000.0,2_catégorie,1_catégorie
+43114,43114,Enseigne Electroménager,24.0,AMO,1400.0,1400.0,D,0.0,,Retraités,Locataire,F,55.0,1200.0,2_catégorie,1_catégorie
+43116,43116,Enseigne Electroménager,30.0,AMO,1499.99,1499.99,D,0.0,CDI,Employés,Locataire,M,51.0,1420.0,2_catégorie,1_catégorie
+43125,43125,Enseigne Electroménager,24.0,AMO,1559.94,1559.94,C,0.0,CDI,Employés,Locataire,F,34.0,1580.0,2_catégorie,1_catégorie
+43149,43149,Enseigne Electroménager,30.0,AMO,1973.95,1973.95,D,0.0,,Retraités,Locataire,F,66.0,1200.0,2_catégorie,1_catégorie
+43369,43369,Enseigne Electroménager,12.0,AMO,1467.97,1467.97,C,1.0,CDI,Ouvriers,Locataire,M,29.0,1700.0,2_catégorie,1_catégorie
+43436,43436,Enseigne Electroménager,15.0,AMO,1012.98,1012.98,C,0.0,CDI,Employés,Logé par famille,M,27.0,1350.0,1_catégorie,1_catégorie
+43478,43478,Enseigne Electroménager,12.0,AMO,399.99,399.99,C,0.0,CDI,Employés,Locataire,M,47.0,1450.0,1_catégorie,1_catégorie
+43500,43500,Enseigne Electroménager,15.0,REN,768.99,3000.0,K,1.0,CDI,Ouvriers,Locataire,M,62.0,1500.0,3_catégorie,1_catégorie
+43541,43541,Enseigne Electroménager,30.0,AMO,1361.94,1361.94,C,0.0,CDI,Professions intermédiaires,Locataire,M,30.0,1550.0,2_catégorie,1_catégorie
+43556,43556,Enseigne Electroménager,15.0,AMO,919.98,919.98,C,0.0,CDI,Employés,Logé par famille,M,22.0,1450.0,1_catégorie,1_catégorie
+43563,43563,Enseigne Electroménager,30.0,AMO,1455.88,1455.88,C,0.0,CDI,Professions intermédiaires,Locataire,M,35.0,1650.0,2_catégorie,1_catégorie
+43585,43585,Enseigne Electroménager,24.0,AMO,2000.0,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,31.0,1550.0,2_catégorie,1_catégorie
+43590,43590,Enseigne Electroménager,20.0,AMO,1989.0,1989.0,D,0.0,,Retraités,Locataire,M,69.0,1100.0,2_catégorie,1_catégorie
+43595,43595,Enseigne Electroménager,18.0,AMO,1596.96,1596.96,C,0.0,CDI,Professions intermédiaires,Locataire,M,49.0,1680.0,2_catégorie,1_catégorie
+43618,43618,Enseigne Electroménager,12.0,AMO,1319.96,1319.96,C,0.0,CDI,Employés,Locataire,F,25.0,1720.0,2_catégorie,1_catégorie
+43666,43666,Enseigne Electroménager,5.0,AMO,259.99,259.99,S,1.0,CDI,Employés,Locataire,F,45.0,1400.0,1_catégorie,1_catégorie
+43685,43685,Enseigne Electroménager,3.0,REN,279.99,2000.0,C,0.0,AUT,"Artisans, commerçants et chefs d'entreprise",Locataire,M,50.0,1300.0,3_catégorie,1_catégorie
+43702,43702,Enseigne Electroménager,10.0,AMO,399.99,399.99,M,0.0,CDI,Ouvriers,Locataire,M,59.0,1200.0,1_catégorie,1_catégorie
+43842,43842,Enseigne Electroménager,20.0,AMO,2709.94,2709.94,C,0.0,CDI,Employés,Locataire,F,25.0,1750.0,2_catégorie,1_catégorie
+43851,43851,Enseigne Electroménager,30.0,AMO,699.99,699.99,C,0.0,CDI,Employés,Logé par famille,M,28.0,1400.0,1_catégorie,1_catégorie
+43929,43929,Enseigne Electroménager,12.0,AMO,978.99,978.99,M,2.0,CDI,Employés,Locataire,F,33.0,1500.0,1_catégorie,1_catégorie
+43937,43937,Enseigne Electroménager,20.0,AMO,1148.98,1148.98,C,0.0,CDI,Employés,Locataire,M,34.0,2300.0,2_catégorie,1_catégorie
+44036,44036,Enseigne réparation auto,10.0,AMO,900.19,900.19,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,21.0,1200.0,1_catégorie,1_catégorie
+44054,44054,Enseigne Electroménager,10.0,REN,1018.99,1500.0,C,0.0,CDI,Employés,Logé par famille,M,22.0,1600.0,2_catégorie,1_catégorie
+44091,44091,Enseigne Electroménager,20.0,AMO,1929.0,1929.0,C,0.0,CDI,Ouvriers,Locataire,M,20.0,2206.0,2_catégorie,1_catégorie
+44103,44103,Enseigne Electroménager,12.0,AMO,768.99,768.99,K,0.0,CDI,Professions intermédiaires,Locataire,F,21.0,1500.0,1_catégorie,1_catégorie
+44121,44121,Enseigne Electroménager,20.0,AMO,1468.97,1468.97,C,0.0,CDI,Employés,Propriétaire,F,33.0,2300.0,2_catégorie,1_catégorie
+44252,44252,Enseigne Electroménager,20.0,AMO,1018.99,1018.99,C,0.0,CDI,Ouvriers,Locataire,M,26.0,2400.0,2_catégorie,1_catégorie
+44263,44263,Enseigne Electroménager,30.0,AMO,1679.99,1679.99,K,4.0,CDI,Professions intermédiaires,Locataire,M,33.0,1600.0,2_catégorie,1_catégorie
+44415,44415,Enseigne Electroménager,10.0,AMO,508.99,508.99,M,0.0,CDI,Employés,Accession à la propriété,F,54.0,1500.0,1_catégorie,1_catégorie
+44647,44647,Enseigne Electroménager,20.0,AMO,1083.96,1083.96,C,0.0,CDD,Employés,Logé par famille,F,21.0,1100.0,1_catégorie,1_catégorie
+44705,44705,Enseigne Electroménager,5.0,AMO,1198.99,1198.99,C,1.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,33.0,3500.0,2_catégorie,1_catégorie
+44893,44893,Enseigne Electroménager,10.0,REN,513.99,3000.0,K,3.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,29.0,1600.0,3_catégorie,1_catégorie
+45076,45076,Enseigne Electroménager,12.0,AMO,459.99,459.99,C,1.0,CDI,Professions intermédiaires,Propriétaire,M,32.0,2200.0,1_catégorie,1_catégorie
+45090,45090,Enseigne Electroménager,10.0,REN,1029.97,2000.0,C,0.0,CDI,Employés,Propriétaire,M,23.0,2499.0,2_catégorie,1_catégorie
+45108,45108,Enseigne Electroménager,12.0,AMO,998.97,998.97,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,M,43.0,5200.0,2_catégorie,1_catégorie
+45159,45159,Enseigne Electroménager,12.0,AMO,1414.97,1414.97,C,0.0,CDI,Ouvriers,Locataire,F,20.0,1550.0,2_catégorie,1_catégorie
+45176,45176,Enseigne Electroménager,10.0,AMO,1500.0,1500.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,M,48.0,2400.0,2_catégorie,1_catégorie
+45206,45206,Enseigne Electroménager,15.0,AMO,1519.97,1519.97,C,0.0,CDI,Employés,Locataire,M,36.0,1800.0,2_catégorie,1_catégorie
+45215,45215,Enseigne Electroménager,12.0,AMO,1398.97,1398.97,D,1.0,CDI,Professions intermédiaires,Propriétaire,M,35.0,2500.0,2_catégorie,1_catégorie
+45230,45230,Enseigne Electroménager,10.0,AMO,463.99,463.99,K,0.0,CDI,Employés,Locataire,M,45.0,1600.0,1_catégorie,1_catégorie
+46019,46019,Enseigne Electroménager,5.0,AMO,683.98,683.98,C,1.0,CDD,Employés,Locataire,F,35.0,1491.0,1_catégorie,1_catégorie
+46043,46043,Enseigne Electroménager,15.0,REN,369.0,3000.0,C,0.0,CDI,Ouvriers,Logé par famille,M,24.0,1300.0,3_catégorie,1_catégorie
+46068,46068,Enseigne Electroménager,24.0,REN,1283.0,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,22.0,1200.0,2_catégorie,1_catégorie
+46082,46082,Enseigne Electroménager,10.0,AMO,578.99,578.99,C,0.0,CDI,Professions intermédiaires,Locataire,M,34.0,1600.0,1_catégorie,1_catégorie
+46090,46090,Enseigne Electroménager,12.0,AMO,1538.97,1538.97,C,0.0,CDI,Professions intermédiaires,Locataire,F,28.0,1800.0,2_catégorie,1_catégorie
+46095,46095,Enseigne Electroménager,30.0,REN,1898.97,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,33.0,2200.0,2_catégorie,1_catégorie
+46104,46104,Enseigne Electroménager,30.0,REN,1878.96,2000.0,D,0.0,CDI,Professions intermédiaires,Locataire,F,38.0,2200.0,2_catégorie,1_catégorie
+46136,46136,Enseigne Electroménager,15.0,REN,1638.98,2000.0,C,0.0,CDI,Ouvriers,Propriétaire,M,44.0,2200.0,2_catégorie,1_catégorie
+46245,46245,Enseigne Electroménager,10.0,REN,749.97,2000.0,C,0.0,CDI,Employés,Locataire,M,32.0,1800.0,3_catégorie,1_catégorie
+46303,46303,Enseigne Electroménager,12.0,AMO,458.99,458.99,M,2.0,CDI,Ouvriers,Locataire,F,31.0,1750.0,1_catégorie,1_catégorie
+46560,46560,Enseigne Electroménager,30.0,AMO,1188.98,1188.98,K,3.0,CDI,Ouvriers,Locataire,M,36.0,1900.0,2_catégorie,1_catégorie
+46579,46579,Enseigne Electroménager,20.0,AMO,1918.98,1918.98,C,0.0,CDI,Ouvriers,Locataire,M,22.0,2200.0,2_catégorie,1_catégorie
+46594,46594,Enseigne Electroménager,12.0,AMO,1618.97,1618.97,C,0.0,CDI,Ouvriers,Locataire,M,40.0,2100.0,2_catégorie,1_catégorie
+46599,46599,Enseigne Electroménager,30.0,AMO,1999.98,1999.98,C,0.0,CDI,Ouvriers,Locataire,M,36.0,2000.0,2_catégorie,1_catégorie
+46614,46614,Enseigne Electroménager,12.0,AMO,1979.94,1979.94,C,0.0,CDI,Ouvriers,Propriétaire,M,39.0,2300.0,2_catégorie,1_catégorie
+46617,46617,Enseigne réparation auto,10.0,AMO,1088.0,1088.0,C,0.0,CDD,Employés,Logé par famille,F,18.0,800.0,1_catégorie,1_catégorie
+46625,46625,Enseigne Electroménager,30.0,AMO,1978.98,1978.98,C,0.0,CDI,Professions intermédiaires,Locataire,F,42.0,1990.0,2_catégorie,1_catégorie
+46811,46811,Enseigne Electroménager,12.0,AMO,549.99,549.99,C,0.0,CDI,Ouvriers,Locataire,F,25.0,1400.0,1_catégorie,1_catégorie
+46933,46933,Enseigne Electroménager,20.0,AMO,1348.97,1348.97,C,0.0,,Invalidités,Locataire,M,49.0,805.19,2_catégorie,1_catégorie
+46940,46940,Enseigne Electroménager,18.0,AMO,1057.98,1057.98,C,0.0,CDI,Employés,Logé par famille,F,20.0,1150.0,1_catégorie,1_catégorie
+46946,46946,Enseigne Electroménager,30.0,REN,968.99,2000.0,C,3.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,F,45.0,1350.0,3_catégorie,1_catégorie
+46948,46948,Enseigne Electroménager,30.0,REN,663.98,2000.0,C,0.0,CDI,Ouvriers,Logé par famille,F,27.0,1250.0,3_catégorie,1_catégorie
+46959,46959,Enseigne Electroménager,33.0,AMO,1333.98,1333.98,C,1.0,CDI,Employés,Locataire,F,23.0,1650.0,2_catégorie,1_catégorie
+46960,46960,Enseigne Electroménager,15.0,REN,868.97,2000.0,K,0.0,CDI,Ouvriers,Propriétaire,M,44.0,1420.0,3_catégorie,1_catégorie
+46999,46999,Enseigne Electroménager,5.0,AMO,229.99,229.99,C,0.0,CDI,Employés,Locataire,M,19.0,1450.0,1_catégorie,1_catégorie
+47604,47604,Enseigne Optique 1,10.0,AMO,874.22,874.22,M,2.0,CDI,Employés,Accession à la propriété,F,37.0,1677.0,1_catégorie,1_catégorie
+47890,47890,Enseigne Optique 1,10.0,AMO,805.0,805.0,C,0.0,CDI,Employés,Logé par famille,M,23.0,800.0,1_catégorie,1_catégorie
+48081,48081,Enseigne Optique 1,4.0,AMO,703.66,703.66,M,0.0,,Retraités,Locataire,M,70.0,2315.0,1_catégorie,1_catégorie
+48105,48105,Enseigne Optique 1,4.0,AMO,640.0,640.0,M,3.0,CDD,Professions intermédiaires,Accession à la propriété,F,41.0,1100.0,1_catégorie,1_catégorie
+48122,48122,Enseigne Optique 1,10.0,AMO,509.31,509.31,C,0.0,,Retraités,Propriétaire,F,65.0,800.0,1_catégorie,1_catégorie
+48182,48182,Enseigne réparation auto,4.0,REN,219.45,3000.0,M,1.0,,Retraités,Locataire,M,68.0,1088.0,3_catégorie,1_catégorie
+48261,48261,Enseigne Optique 1,4.0,AMO,541.0,541.0,C,2.0,CDI,Employés,Logé par famille,M,56.0,1500.0,1_catégorie,1_catégorie
+48329,48329,Enseigne Optique 1,10.0,AMO,172.5,172.5,C,0.0,CDI,Employés,Locataire,F,31.0,1300.0,1_catégorie,1_catégorie
+48443,48443,Enseigne Optique 1,4.0,AMO,534.4,534.4,K,0.0,CDI,Ouvriers,Locataire,M,48.0,1400.0,1_catégorie,1_catégorie
+48571,48571,Enseigne Optique 1,10.0,AMO,395.66,395.66,C,0.0,CDI,Professions intermédiaires,Propriétaire,F,55.0,2227.0,1_catégorie,1_catégorie
+48662,48662,Enseigne réparation auto,10.0,AMO,966.96,966.96,C,1.0,CDD,Professions intermédiaires,Locataire,F,22.0,1100.0,1_catégorie,1_catégorie
+48702,48702,Enseigne Optique 1,4.0,AMO,179.0,179.0,C,0.0,CDI,Professions intermédiaires,Locataire,F,54.0,1300.0,1_catégorie,1_catégorie
+48891,48891,Enseigne Optique 1,10.0,AMO,999.0,999.0,C,0.0,CDI,Agriculteurs exploitants,Locataire,M,47.0,1200.0,1_catégorie,1_catégorie
+48947,48947,Enseigne Optique 1,10.0,AMO,1322.66,1322.66,C,1.0,CDI,Professions intermédiaires,Locataire,F,49.0,1500.0,2_catégorie,1_catégorie
+48986,48986,Enseigne Optique 1,10.0,AMO,285.9,285.9,C,1.0,CDD,Professions intermédiaires,Locataire,F,45.0,1500.0,1_catégorie,1_catégorie
+49011,49011,Enseigne Optique 1,10.0,AMO,1999.0,1999.0,D,0.0,CDI,Professions intermédiaires,Propriétaire,M,48.0,1600.0,2_catégorie,1_catégorie
+49028,49028,Enseigne Optique 1,10.0,AMO,642.34,642.34,C,1.0,CDI,Employés,Locataire,F,43.0,1300.0,1_catégorie,1_catégorie
+49029,49029,Enseigne Optique 1,4.0,AMO,272.88,272.88,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Propriétaire,M,52.0,1800.0,1_catégorie,1_catégorie
+49094,49094,Enseigne Optique 1,4.0,AMO,227.0,227.0,C,2.0,CDI,Professions intermédiaires,Locataire,M,37.0,2600.0,1_catégorie,1_catégorie
+49171,49171,Enseigne Optique 1,4.0,AMO,155.55,155.55,M,1.0,CDI,Employés,Locataire,M,32.0,1350.0,1_catégorie,1_catégorie
+49219,49219,Enseigne AUTRES,20.0,AMO,771.1,771.1,K,1.0,CDI,Ouvriers,Locataire,M,20.0,1240.0,1_catégorie,1_catégorie
+49298,49298,Enseigne réparation auto,3.0,REN,109.8,3000.0,D,2.0,CDI,Employés,Locataire,F,48.0,1764.0,3_catégorie,1_catégorie
+49305,49305,Enseigne réparation auto,4.0,REN,105.83,3000.0,M,0.0,,Retraités,Accession à la propriété,M,65.0,1950.0,3_catégorie,1_catégorie
+49443,49443,Enseigne réparation auto,10.0,AMO,579.98,579.98,C,0.0,CDI,Ouvriers,Propriétaire,M,26.0,1623.0,1_catégorie,1_catégorie
+49600,49600,Enseigne réparation auto,30.0,REN,0.0,1000.0,M,2.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,26.0,2000.0,1_catégorie,1_catégorie
+49715,49715,Enseigne réparation auto,10.0,AMO,535.86,535.86,M,3.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,27.0,2000.0,1_catégorie,1_catégorie
+49851,49851,Enseigne réparation auto,4.0,REN,300.16,3000.0,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,22.0,1450.0,3_catégorie,1_catégorie
+49924,49924,Enseigne réparation auto,10.0,AMO,888.0,888.0,M,2.0,CDI,Ouvriers,Locataire,M,45.0,2000.0,1_catégorie,1_catégorie
+49925,49925,Enseigne réparation auto,10.0,AMO,700.99,700.99,P,3.0,CDI,Professions intermédiaires,Locataire,M,34.0,1700.0,1_catégorie,1_catégorie
+49933,49933,Enseigne réparation auto,10.0,AMO,888.0,888.0,C,0.0,,Invalidités,Locataire,M,37.0,800.0,1_catégorie,1_catégorie
+49949,49949,Enseigne réparation auto,10.0,AMO,1265.25,1265.25,M,3.0,CDI,Ouvriers,Locataire,M,37.0,1500.0,2_catégorie,1_catégorie
+50030,50030,Enseigne Electroménager,15.0,REN,678.98,1500.0,C,0.0,CDI,Employés,Locataire,F,19.0,1800.0,2_catégorie,1_catégorie
+50133,50133,Enseigne Electroménager,20.0,AMO,450.15,450.15,M,0.0,CDI,Employés,Locataire,F,52.0,1200.0,1_catégorie,1_catégorie
+50312,50312,Enseigne réparation auto,4.0,REN,442.07,2000.0,C,3.0,CDI,Ouvriers,Locataire,M,57.0,1900.0,3_catégorie,1_catégorie
+50384,50384,Enseigne Electroménager,30.0,AMO,1657.97,1657.97,C,0.0,CDI,Ouvriers,Logé par famille,M,23.0,1100.0,2_catégorie,1_catégorie
+50453,50453,Enseigne Electroménager,12.0,AMO,1099.99,1099.99,C,0.0,CDI,Employés,Logé par famille,M,25.0,1500.0,1_catégorie,1_catégorie
+50533,50533,Enseigne Electroménager,5.0,AMO,499.99,499.99,C,0.0,CDI,Employés,Locataire,M,21.0,1200.0,1_catégorie,1_catégorie
+50727,50727,Enseigne Electroménager,4.0,AMO,752.97,752.97,V,0.0,,Retraités,Propriétaire,F,67.0,4000.0,2_catégorie,1_catégorie
+50744,50744,Enseigne Electroménager,4.0,AMO,449.99,449.99,C,0.0,CDI,Ouvriers,Locataire,F,28.0,1200.0,1_catégorie,1_catégorie
+50759,50759,Enseigne Electroménager,4.0,AMO,863.99,863.99,C,0.0,CDI,Ouvriers,Logé par famille,M,21.0,1300.0,1_catégorie,1_catégorie
+50870,50870,Enseigne Electroménager,10.0,AMO,399.99,399.99,D,2.0,CDI,Professions intermédiaires,Locataire,F,51.0,1700.0,1_catégorie,1_catégorie
+50947,50947,Enseigne Electroménager,10.0,AMO,473.99,473.99,M,3.0,CDI,Employés,Locataire,F,27.0,1800.0,1_catégorie,1_catégorie
+50952,50952,Enseigne réparation auto,4.0,AMO,118.22,118.22,K,1.0,CDI,Ouvriers,Locataire,M,30.0,1080.0,1_catégorie,1_catégorie
+51036,51036,Enseigne Electroménager,10.0,AMO,1378.98,1378.98,C,0.0,CDI,Employés,Propriétaire,F,23.0,1800.0,2_catégorie,1_catégorie
+51041,51041,Enseigne Electroménager,15.0,AMO,1677.98,1677.98,C,0.0,CDI,Ouvriers,Locataire,M,25.0,1700.0,2_catégorie,1_catégorie
+51051,51051,Enseigne Electroménager,15.0,AMO,1477.97,1477.97,C,0.0,CDI,Ouvriers,Propriétaire,M,27.0,2200.0,2_catégorie,1_catégorie
+51128,51128,Enseigne Electroménager,10.0,AMO,728.98,728.98,C,0.0,CDI,Ouvriers,Logé par famille,M,18.0,1600.0,1_catégorie,1_catégorie
+51133,51133,Enseigne Electroménager,20.0,AMO,1607.98,1607.98,C,0.0,CDI,Ouvriers,Locataire,M,30.0,1800.0,2_catégorie,1_catégorie
+51251,51251,Enseigne Electroménager,30.0,AMO,1990.0,1990.0,M,0.0,,Retraités,Locataire,M,66.0,1500.0,2_catégorie,1_catégorie
+51300,51300,Enseigne Electroménager,10.0,REN,448.99,3000.0,V,0.0,CDI,Professions intermédiaires,Locataire,F,50.0,1000.0,3_catégorie,1_catégorie
+51316,51316,Enseigne Electroménager,10.0,AMO,448.99,448.99,C,0.0,,Invalidités,Logé par famille,M,44.0,1200.0,1_catégorie,1_catégorie
+51342,51342,Enseigne Electroménager,12.0,AMO,1248.0,1248.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,25.0,1000.0,1_catégorie,1_catégorie
+51360,51360,Enseigne Electroménager,20.0,AMO,578.99,578.99,D,0.0,CDI,Employés,Locataire,M,57.0,1400.0,1_catégorie,1_catégorie
+51420,51420,Enseigne réparation auto,1.0,REN,158.08,2000.0,K,0.0,INT,Ouvriers,Locataire,M,38.0,1400.0,3_catégorie,1_catégorie
+51553,51553,Enseigne réparation auto,4.0,REN,740.46,3000.0,C,0.0,CDI,Professions intermédiaires,Logé par famille,M,27.0,1800.0,3_catégorie,1_catégorie
+51672,51672,Enseigne réparation auto,4.0,AMO,347.28,347.28,C,1.0,CDD,Professions intermédiaires,Locataire,F,27.0,1380.0,1_catégorie,1_catégorie
+52032,52032,Enseigne réparation auto,3.0,REN,299.8,1500.0,C,0.0,CDI,Employés,Logé par famille,F,20.0,1300.0,3_catégorie,1_catégorie
+52078,52078,Enseigne réparation auto,10.0,AMO,536.8,536.8,C,0.0,CDI,Employés,Logé par famille,F,32.0,1400.0,1_catégorie,1_catégorie
+52189,52189,Enseigne Electroménager,12.0,AMO,683.98,683.98,C,1.0,CDI,Professions intermédiaires,Propriétaire,M,25.0,1300.0,1_catégorie,1_catégorie
+52243,52243,Enseigne Electroménager,12.0,AMO,733.99,733.99,C,0.0,CDI,Professions intermédiaires,Locataire,F,20.0,1500.0,1_catégorie,1_catégorie
+52259,52259,Enseigne Electroménager,12.0,AMO,618.99,618.99,M,0.0,CDI,Professions intermédiaires,Locataire,F,52.0,1000.0,1_catégorie,1_catégorie
+52284,52284,Enseigne Electroménager,15.0,AMO,1900.0,1900.0,C,0.0,CDI,Ouvriers,Locataire,M,26.0,2160.0,2_catégorie,1_catégorie
+52291,52291,Enseigne Electroménager,5.0,AMO,600.0,600.0,S,1.0,CDI,Employés,Locataire,F,44.0,1450.0,1_catégorie,1_catégorie
+52343,52343,Enseigne Electroménager,12.0,AMO,1319.97,1319.97,C,0.0,CDI,Ouvriers,Logé par famille,M,20.0,1700.0,2_catégorie,1_catégorie
+52389,52389,Enseigne Electroménager,20.0,AMO,1368.98,1368.98,C,0.0,CDI,Ouvriers,Locataire,M,20.0,1675.0,2_catégorie,1_catégorie
+52478,52478,Enseigne Electroménager,30.0,AMO,1158.0,1158.0,C,0.0,CDI,Ouvriers,Logé par famille,M,26.0,1270.0,1_catégorie,1_catégorie
+52482,52482,Enseigne Electroménager,5.0,AMO,359.99,359.99,K,0.0,CDI,Ouvriers,Locataire,M,23.0,1330.0,1_catégorie,1_catégorie
+52516,52516,Enseigne Electroménager,15.0,REN,1497.98,3000.0,C,0.0,CDI,Ouvriers,Locataire,M,36.0,2500.0,2_catégorie,1_catégorie
+52554,52554,Enseigne Electroménager,12.0,AMO,578.99,578.99,K,0.0,CDI,Employés,Locataire,M,42.0,2000.0,1_catégorie,1_catégorie
+52633,52633,Enseigne Electroménager,30.0,AMO,1582.98,1582.98,C,0.0,CDI,Employés,Locataire,M,21.0,1400.0,2_catégorie,1_catégorie
+52681,52681,Enseigne Electroménager,5.0,AMO,249.98,249.98,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,20.0,1400.0,1_catégorie,1_catégorie
+53203,53203,Enseigne audition,5.0,AMO,2990.0,2990.0,C,0.0,,Retraités,Propriétaire,M,66.0,1300.0,2_catégorie,1_catégorie
+53834,53834,Enseigne audition,20.0,AMO,3180.38,3180.38,M,1.0,CDI,Professions intermédiaires,Accession à la propriété,M,51.0,1303.0,2_catégorie,1_catégorie
+55455,55455,Enseigne réparation auto,20.0,AMO,999.0,999.0,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Propriétaire,M,45.0,2750.0,2_catégorie,1_catégorie
+55962,55962,Enseigne réparation auto,10.0,AMO,827.3,827.3,C,0.0,CDI,Ouvriers,Locataire,M,21.0,1550.0,1_catégorie,1_catégorie
+56590,56590,Enseigne Electroménager,12.0,AMO,749.96,749.96,C,0.0,CDI,Ouvriers,Locataire,M,19.0,1400.0,1_catégorie,1_catégorie
+56748,56748,Enseigne réparation auto,10.0,AMO,347.3,347.3,C,0.0,CDI,Employés,Locataire,M,22.0,1300.0,1_catégorie,1_catégorie
+56919,56919,Enseigne réparation auto,10.0,AMO,600.0,600.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,33.0,1650.0,1_catégorie,1_catégorie
+56949,56949,Enseigne réparation auto,10.0,AMO,1196.0,1196.0,C,0.0,CDI,Employés,Locataire,M,26.0,2200.0,2_catégorie,1_catégorie
+57001,57001,Enseigne réparation auto,10.0,AMO,807.45,807.45,C,0.0,CDI,Employés,Locataire,F,32.0,2500.0,1_catégorie,1_catégorie
+57353,57353,Enseigne Electroménager,30.0,AMO,1543.96,1543.96,C,0.0,CDI,Ouvriers,Locataire,M,23.0,1350.0,2_catégorie,1_catégorie
+57483,57483,Enseigne Electroménager,3.0,REN,299.99,3000.0,C,1.0,CDI,Ouvriers,Accession à la propriété,M,45.0,1800.0,3_catégorie,1_catégorie
+57641,57641,Enseigne Electroménager,33.0,AMO,1499.97,1499.97,C,0.0,CDI,Professions intermédiaires,Propriétaire,F,24.0,1350.0,2_catégorie,1_catégorie
+57644,57644,Enseigne Electroménager,12.0,AMO,478.99,478.99,C,0.0,CDI,Employés,Propriétaire,M,30.0,1800.0,1_catégorie,1_catégorie
+57645,57645,Enseigne Electroménager,20.0,AMO,1999.99,1999.99,C,0.0,CDI,Ouvriers,Logé par famille,M,19.0,1700.0,2_catégorie,1_catégorie
+57701,57701,Enseigne Electroménager,30.0,AMO,1999.99,1999.99,C,0.0,CDI,Ouvriers,Propriétaire,M,25.0,1900.0,2_catégorie,1_catégorie
+57795,57795,Enseigne Electroménager,5.0,AMO,1189.96,1189.96,C,0.0,CDI,Employés,Locataire,F,19.0,1500.0,2_catégorie,1_catégorie
+57807,57807,Enseigne Electroménager,5.0,AMO,299.99,299.99,C,0.0,CDI,Ouvriers,Logé par famille,M,27.0,1940.0,1_catégorie,1_catégorie
+57876,57876,Enseigne Electroménager,15.0,AMO,449.99,449.99,C,0.0,CDI,Ouvriers,Propriétaire,M,21.0,1500.0,1_catégorie,1_catégorie
+57907,57907,Enseigne Electroménager,20.0,AMO,1197.99,1197.99,C,0.0,CDI,Ouvriers,Logé par famille,M,22.0,1500.0,2_catégorie,1_catégorie
+57910,57910,Enseigne Electroménager,30.0,AMO,1009.98,1009.98,C,0.0,CDI,Employés,Propriétaire,F,59.0,1650.0,1_catégorie,1_catégorie
+58020,58020,Enseigne Electroménager,20.0,AMO,1047.98,1047.98,C,2.0,CDI,Professions intermédiaires,Locataire,M,25.0,1680.0,1_catégorie,1_catégorie
+58037,58037,Enseigne Electroménager,33.0,REN,1428.99,2000.0,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,F,26.0,2000.0,2_catégorie,1_catégorie
+58146,58146,Enseigne Electroménager,15.0,REN,379.99,2000.0,C,1.0,CDI,Employés,Locataire,F,30.0,1500.0,3_catégorie,1_catégorie
+58196,58196,Enseigne Electroménager,30.0,AMO,1878.99,1878.99,C,0.0,CDI,Ouvriers,Locataire,F,46.0,1550.0,2_catégorie,1_catégorie
+58245,58245,Enseigne Electroménager,33.0,AMO,1999.98,1999.98,C,0.0,CDI,Ouvriers,Locataire,M,37.0,1900.0,2_catégorie,1_catégorie
+58280,58280,Enseigne Electroménager,15.0,REN,864.98,2000.0,M,3.0,CDI,Ouvriers,Locataire,M,46.0,1500.0,3_catégorie,1_catégorie
+58388,58388,Enseigne Electroménager,15.0,REN,768.99,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,24.0,1700.0,3_catégorie,1_catégorie
+58395,58395,Enseigne Electroménager,10.0,REN,768.99,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,19.0,1300.0,3_catégorie,1_catégorie
+58446,58446,Enseigne Electroménager,5.0,AMO,788.98,788.98,C,0.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,F,39.0,1300.0,1_catégorie,1_catégorie
+58451,58451,Enseigne Electroménager,20.0,AMO,918.99,918.99,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,35.0,1300.0,1_catégorie,1_catégorie
+58557,58557,Enseigne Electroménager,12.0,AMO,999.99,999.99,C,2.0,CDI,Ouvriers,Locataire,F,36.0,1500.0,1_catégorie,1_catégorie
+58591,58591,Enseigne Electroménager,15.0,AMO,1587.96,1587.96,D,0.0,CDI,Professions intermédiaires,Locataire,M,34.0,1000.0,2_catégorie,1_catégorie
+58670,58670,Enseigne Electroménager,10.0,REN,463.99,2000.0,C,0.0,CDI,Employés,Locataire,F,19.0,1200.0,3_catégorie,1_catégorie
+58766,58766,Enseigne Electroménager,10.0,REN,329.98,2000.0,C,0.0,CDI,Employés,Propriétaire,F,60.0,1700.0,3_catégorie,1_catégorie
+58769,58769,Enseigne Electroménager,20.0,AMO,948.99,948.99,C,0.0,CDI,Ouvriers,Locataire,M,22.0,1600.0,1_catégorie,1_catégorie
+58914,58914,Enseigne Electroménager,10.0,AMO,533.99,533.99,K,0.0,CDI,Professions intermédiaires,Locataire,M,48.0,1400.0,1_catégorie,1_catégorie
+59020,59020,Enseigne réparation auto,10.0,AMO,1127.46,1127.46,C,0.0,CDI,Ouvriers,Locataire,M,39.0,2100.0,2_catégorie,1_catégorie
+59114,59114,Enseigne Electroménager,5.0,AMO,259.99,259.99,M,0.0,CDI,Employés,Locataire,F,51.0,1450.0,1_catégorie,1_catégorie
+59246,59246,Enseigne Electroménager,12.0,AMO,1400.0,1400.0,C,0.0,CDD,Ouvriers,Logé par famille,M,25.0,1300.0,2_catégorie,1_catégorie
+59247,59247,Enseigne Electroménager,12.0,AMO,899.99,899.99,C,0.0,CDI,Employés,Logé par famille,M,26.0,1200.0,1_catégorie,1_catégorie
+59269,59269,Enseigne Electroménager,12.0,AMO,875.95,875.95,D,1.0,CDI,Employés,Locataire,F,44.0,1600.0,1_catégorie,1_catégorie
+59302,59302,Enseigne Electroménager,18.0,REN,1018.99,2000.0,C,0.0,CDI,Ouvriers,Locataire,M,22.0,1500.0,3_catégorie,1_catégorie
+59313,59313,Enseigne Electroménager,10.0,AMO,713.0,713.0,D,1.0,AUT,"Artisans, commerçants et chefs d'entreprise",Locataire,F,38.0,1500.0,1_catégorie,1_catégorie
+59333,59333,Enseigne Electroménager,20.0,AMO,1259.96,1259.96,C,0.0,CDI,Agriculteurs exploitants,Logé par famille,M,27.0,1500.0,2_catégorie,1_catégorie
+59431,59431,Enseigne Electroménager,20.0,AMO,1149.98,1149.98,C,0.0,CDI,Employés,Logé par famille,M,30.0,1200.0,1_catégorie,1_catégorie
+59479,59479,Enseigne Electroménager,12.0,AMO,1099.98,1099.98,C,0.0,CDI,Employés,Locataire,M,33.0,2200.0,2_catégorie,1_catégorie
+59610,59610,Enseigne Electroménager,15.0,AMO,1018.99,1018.99,C,0.0,CDI,Employés,Propriétaire,M,57.0,900.0,1_catégorie,1_catégorie
+59611,59611,Enseigne Electroménager,15.0,REN,1428.98,1500.0,C,0.0,CDI,Ouvriers,Locataire,F,40.0,1200.0,2_catégorie,1_catégorie
+59622,59622,Enseigne réparation auto,10.0,AMO,1185.69,1185.69,C,0.0,CDI,Professions intermédiaires,Locataire,M,21.0,1600.0,2_catégorie,1_catégorie
+59636,59636,Enseigne Electroménager,15.0,REN,1018.99,1500.0,C,0.0,CDI,Employés,Locataire,M,22.0,1800.0,2_catégorie,1_catégorie
+59718,59718,Enseigne Electroménager,12.0,AMO,578.99,578.99,C,1.0,CDI,Employés,Locataire,F,26.0,1250.0,1_catégorie,1_catégorie
+59797,59797,Enseigne Electroménager,10.0,AMO,1278.99,1278.99,C,0.0,CDI,Employés,Locataire,M,28.0,1900.0,2_catégorie,1_catégorie
+60103,60103,Enseigne Electroménager,15.0,REN,668.99,1500.0,C,0.0,,Retraités,Locataire,M,61.0,1400.0,3_catégorie,1_catégorie
+60387,60387,Enseigne Optique 1,10.0,AMO,498.42,498.42,K,0.0,,Retraités,Logé par famille,F,66.0,1012.0,1_catégorie,1_catégorie
+60455,60455,Enseigne réparation auto,4.0,REN,311.8,2000.0,S,0.0,CDI,Ouvriers,Accession à la propriété,M,50.0,2000.0,3_catégorie,1_catégorie
+60639,60639,Enseigne réparation auto,10.0,AMO,501.49,501.49,M,3.0,CDI,Employés,Accession à la propriété,F,41.0,1300.0,1_catégorie,1_catégorie
+60696,60696,Enseigne réparation auto,3.0,AMO,413.98,413.98,K,0.0,CDD,Employés,Locataire,M,28.0,1383.0,1_catégorie,1_catégorie
+60972,60972,Enseigne réparation auto,4.0,REN,353.62,2000.0,C,0.0,CDI,Employés,Locataire,M,38.0,1600.0,3_catégorie,1_catégorie
+61028,61028,Enseigne réparation auto,10.0,AMO,468.32,468.32,M,2.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,36.0,3000.0,1_catégorie,1_catégorie
+61094,61094,Enseigne Electroménager,30.0,AMO,1097.98,1097.98,C,0.0,CDI,Ouvriers,Locataire,M,23.0,1600.0,1_catégorie,1_catégorie
+61179,61179,Enseigne Electroménager,30.0,AMO,1677.97,1677.97,D,0.0,,Invalidités,Locataire,M,53.0,2100.0,2_catégorie,1_catégorie
+61198,61198,Enseigne Electroménager,30.0,AMO,1998.98,1998.98,C,0.0,CDI,Employés,Locataire,M,25.0,2200.0,2_catégorie,1_catégorie
+61743,61743,Enseigne réparation auto,4.0,REN,999.0,2000.0,C,0.0,CDI,Professions intermédiaires,Locataire,M,29.0,1500.0,3_catégorie,1_catégorie
+61804,61804,Enseigne réparation auto,10.0,AMO,820.18,820.18,C,3.0,CDI,Cadres et professions intellectuelles supérieures,Locataire,F,31.0,2030.0,1_catégorie,1_catégorie
+61842,61842,Enseigne réparation auto,0.0,REN,0.0,1000.0,C,0.0,CDI,Ouvriers,Logé par famille,M,26.0,3400.0,1_catégorie,1_catégorie
+61928,61928,Enseigne réparation auto,30.0,REN,0.0,1000.0,C,0.0,,Retraités,Accession à la propriété,F,78.0,1700.0,1_catégorie,1_catégorie
+61983,61983,Enseigne réparation auto,10.0,AMO,604.0,604.0,M,1.0,AUT,"Artisans, commerçants et chefs d'entreprise",Locataire,M,45.0,1200.0,1_catégorie,1_catégorie
+62250,62250,Enseigne Electroménager,10.0,REN,983.99,2000.0,M,3.0,CDI,Agriculteurs exploitants,Locataire,M,40.0,1150.0,3_catégorie,1_catégorie
+62427,62427,Enseigne Electroménager,15.0,AMO,1597.96,1597.96,C,2.0,CDI,Professions intermédiaires,Locataire,F,33.0,1350.0,2_catégorie,1_catégorie
+62432,62432,Enseigne Electroménager,20.0,AMO,1578.99,1578.99,C,0.0,CDI,Professions intermédiaires,Locataire,M,21.0,1900.0,2_catégorie,1_catégorie
+62497,62497,Enseigne Electroménager,30.0,AMO,979.98,979.98,M,2.0,CDI,Professions intermédiaires,Locataire,M,47.0,1450.0,1_catégorie,1_catégorie
+62526,62526,Enseigne Electroménager,5.0,AMO,1799.96,1799.96,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Logé par famille,M,18.0,1600.0,2_catégorie,1_catégorie
+62615,62615,Enseigne Electroménager,15.0,REN,928.98,2000.0,V,1.0,AUT,"Artisans, commerçants et chefs d'entreprise",Propriétaire,F,48.0,1900.0,3_catégorie,1_catégorie
+63009,63009,Enseigne réparation auto,3.0,AMO,163.77,163.77,C,0.0,CDD,Employés,Locataire,F,28.0,1265.0,1_catégorie,1_catégorie
+63076,63076,Enseigne Electroménager,12.0,AMO,1018.99,1018.99,C,0.0,CDI,Ouvriers,Propriétaire,F,50.0,1500.0,1_catégorie,1_catégorie
+63310,63310,Enseigne AUTRES,10.0,AMO,219.0,219.0,C,0.0,CDI,Employés,Locataire,M,34.0,1230.0,1_catégorie,1_catégorie
+63318,63318,Enseigne AUTRES,3.0,AMO,249.0,249.0,C,0.0,CDD,Employés,Locataire,M,29.0,1200.0,1_catégorie,1_catégorie
+63350,63350,Enseigne Electroménager,20.0,AMO,1762.97,1762.97,C,0.0,CDI,Professions intermédiaires,Logé par famille,F,18.0,1300.0,2_catégorie,1_catégorie
+63371,63371,Enseigne Electroménager,33.0,AMO,1238.98,1238.98,M,4.0,CDI,Professions intermédiaires,Locataire,F,37.0,1620.0,2_catégorie,1_catégorie
+63921,63921,Enseigne réparation auto,4.0,REN,149.9,3000.0,K,3.0,CDI,Ouvriers,Locataire,M,31.0,1390.0,3_catégorie,1_catégorie
+64045,64045,Enseigne réparation auto,4.0,REN,324.56,3000.0,P,1.0,CDI,Ouvriers,Locataire,M,28.0,1700.0,3_catégorie,1_catégorie
+64340,64340,Enseigne réparation auto,10.0,AMO,970.71,970.71,C,0.0,CDI,"Artisans, commerçants et chefs d'entreprise",Locataire,M,34.0,5000.0,2_catégorie,1_catégorie
+64416,64416,Enseigne réparation auto,4.0,REN,562.8,3000.0,M,1.0,CDI,Professions intermédiaires,Accession à la propriété,F,26.0,1650.0,3_catégorie,1_catégorie
+64471,64471,Enseigne réparation auto,4.0,REN,399.0,3000.0,C,0.0,CDI,Employés,Locataire,F,29.0,1500.0,3_catégorie,1_catégorie
+64555,64555,Enseigne Electroménager,30.0,AMO,1967.96,1967.96,C,0.0,CDI,Professions intermédiaires,Locataire,F,27.0,1150.0,2_catégorie,1_catégorie
+64577,64577,Enseigne Electroménager,30.0,AMO,1778.97,1778.97,C,4.0,CDI,Ouvriers,Locataire,F,48.0,1150.0,2_catégorie,1_catégorie
+64640,64640,Enseigne Electroménager,20.0,AMO,1137.98,1137.98,C,2.0,CDI,Ouvriers,Locataire,M,28.0,1800.0,2_catégorie,1_catégorie
+64657,64657,Enseigne Electroménager,20.0,AMO,799.99,799.99,C,0.0,CDI,Ouvriers,Locataire,F,25.0,1500.0,1_catégorie,1_catégorie
+64661,64661,Enseigne Electroménager,30.0,AMO,818.99,818.99,C,0.0,CDI,Ouvriers,Locataire,M,25.0,1350.0,1_catégorie,1_catégorie
