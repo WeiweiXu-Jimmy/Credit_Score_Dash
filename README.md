@@ -6,6 +6,6 @@ Les données proviennent de l'enseignant universitaire Ferome. Foncel, l'objecti
 Petites présentation des détails de Dash
 
 ![image](https://github.com/JIMMY-XU1/Credit_Score_Dash/blob/main/DashGraph/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-11-14%20%E4%B8%8B%E5%8D%884.11.38.png)
-![image](https://github.com/JIMMY-XU1/Credit_Score_Dash/blob/main/DashGraph/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-11-14%20%E4%B8%8B%E5%8D%884.30.18.png)
+![image](https://github.com/JIMMY-XU1/Credit_Score_Dash/blob/main/DashGraph/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-11-14%20%E4%B8%8B%E5%8D%884.37.14.png)
 ![image](https://github.com/JIMMY-XU1/Credit_Score_Dash/blob/main/DashGraph/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-11-14%20%E4%B8%8B%E5%8D%884.12.27.png)
 ![image](https://github.com/JIMMY-XU1/Credit_Score_Dash/blob/main/DashGraph/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-11-14%20%E4%B8%8B%E5%8D%884.12.59.png)
