@@ -1,4 +1,4 @@
-# Credit_Score_Dash
+# Credit_Score_Dashboard
 1. Opérations:  Nettoyage des données -> Choix des variables -> Choix des modèles  (LogisticRegression,KNeighborsClassifier, AdaBoostClassifier,GradientBoostingClassifier and RandomForestClassifier ) -> Évaluation du modèle(CV, Matrice de confusion, ROC, AUC  sur le train_data) -> Qualité du modèle (Matrice de confusion, ROC, AUC sur le test_data) -> Score-> Présentation en Dash
 
 (Référence: Hands-on machine learning with scikit-learn keras and tensorflow 2nd -- Aurélien Géron  )
